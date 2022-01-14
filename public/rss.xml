@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>术不学</title>
+        <link>https://kekeyu2277.github.io/</link>
+        <description>艺术源于练习</description>
+        <generator>Hugo 0.92.0 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>kekeyu260@gmail.com (术不学)</managingEditor>
+        
+        
+            <webMaster>kekeyu260@gmail.com (术不学)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Fri, 14 Jan 2022 21:18:41 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://kekeyu2277.github.io/rss.xml" />
+        
+        
+    </channel>
+</rss>

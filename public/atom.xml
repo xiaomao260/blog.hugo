@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">术不学</title>
+    <subtitle type="html">艺术源于练习</subtitle>
+    <updated>2022-01-14T21:18:41&#43;08:00</updated>
+    <id>https://kekeyu2277.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://kekeyu2277.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://kekeyu2277.github.io/atom.xml" />
+    <author>
+            <name>术不学</name>
+            <uri>https://kekeyu2277.github.io/</uri>
+            
+                <email>kekeyu260@gmail.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
+</feed>
