@@ -1,7 +1,7 @@
 ##########################################
 # 站点配置
 
-baseURL = "https://kekeyu2277.github.io"
+baseURL = "https://xiaomao260.github.io/blog.hugo/"
 title = "术不学"
 languageCode = "zh-CN"
 hasCJKLanguage = true
@@ -108,7 +108,7 @@ uglyURLs = false
     # 头像
     avatar = "/icons/apple-touch-icon.png"
     # 网站（默认值：baseURL）
-    website = "https://kekeyu2277.github.io"
+    website = "https://xiaomao260.github.io/blog.hugo/"
     # 推特
     twitter = "reuixiy"
 
