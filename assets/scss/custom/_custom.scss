@@ -1,0 +1,51 @@
+b,
+strong {
+  font-weight: bolder;
+  overflow-wrap: break-word;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  padding: 0.1rem 0.2rem;
+  border-radius: 0.2rem;
+  opacity: 0.9;
+  margin: 0 0.1rem;
+  background: linear-gradient(to bottom, #fdf5db, #fae7e2);
+  color: #222;
+}
+
+p {
+  letter-spacing: 1px;
+  word-spacing: 0.1em;
+  text-align: justify;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+}
+
+figcaption {
+  color: #6d6b6b;
+  font-size: 0.8rem;
+  letter-spacing: 1px;
+  word-spacing: 0.1em;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  word-break: break-word;
+  font-family: Optima-Regular;
+}
+.post img {
+  margin-bottom: 0.6rem;
+}
+code {
+  font-family: Optima-Regular, PingFangTC-light;
+  overflow-wrap: break-word;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  padding: 0.1rem 0.2rem 0.2rem;
+  border-radius: 0.2rem;
+  opacity: 0.9;
+  margin: 0 0.3rem;
+  background: linear-gradient(to right, #cff0ff, #afcafd);
+  color: #000;
+}
+.post-body a {
+  color: #50adea;
+}
