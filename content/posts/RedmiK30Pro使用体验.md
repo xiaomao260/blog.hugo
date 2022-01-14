@@ -2,7 +2,7 @@
 title: "Redmi K30 Pro 使用体验"
 date: 2020-10-27T21:41:07+08:00
 lastmod: 
-draft: true
+draft: false
 tags: [ "iOS", "Android", "Apple" , "安卓", "手机", "红米"]
 categories: [ "数字生活"]
 DropCap: false

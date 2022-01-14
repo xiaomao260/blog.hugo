@@ -2,7 +2,7 @@
 title: "iPhone12取消充电头说"
 date: 2020-10-22T09:44:20+08:00
 lastmod: 
-draft: true
+draft: false
 tags: [ "Apple", "iPhone", "数码"]
 categories: [ "数字生活"]
 DropCap: true

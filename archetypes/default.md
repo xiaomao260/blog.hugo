@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 lastmod: 
-draft: true
+draft: false
 tags: [ "", "", "" , "", "", "", ""]
 categories: [ "日记"]
 DropCap: true
