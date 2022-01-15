@@ -23,10 +23,110 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Fri, 14 Jan 2022 22:50:27 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 15:15:42 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://xiaomao260.github.io/blog.hugo/rss.xml" />
         
+        
+            <item>
+                <title>记一次核酸检测</title>
+                <link>https://xiaomao260.github.io/blog.hugo/posts/ca0e9487/</link>
+                <guid isPermaLink="true">https://xiaomao260.github.io/blog.hugo/posts/ca0e9487/</guid>
+                <pubDate>Sat, 15 Jan 2022 15:01:18 &#43;0800</pubDate>
+                
+                    <author>kekeyu260@gmail.com (术不学)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;自从12月22日西安开始封城，当晚离家到现在已经在阎良待了24天。这两日各个区县逐步解封，正好也是周末便想回趟家试试。目前到处都需要48小时核酸检测结果，上次的记录是13号上午，于是今天上午便出门去找个医院做。&lt;/p&gt;
+&lt;p&gt;定了闹钟8点30分，磨磨蹭蹭9点30才出门，到了阎良人民医院，远远的就看到队伍排到了大马路上。据说这里是10元/人，可能比较便宜所以人特别多，防疫人员、市民、外卖员、快递员什么人都有，听口音还有不少是外地的。排队排了10分钟纹丝不动，感觉也不安全果断换地方。&lt;/p&gt;
+&lt;p&gt;开车到交大一附院阎良分院，远远看没有人排队，我还以为这边不做检测，和保安确认后才放心停车。这边38元/人，检测是户外的，放了一个展架展示操作流程。走到展架旁边，有几个人中年人在研究怎么操作，我大概瞅了一眼，果然是全自助而且附近没有工作人员辅导。&lt;/p&gt;
+&lt;p&gt;操作不需要下载APP，使用微信小程序这点还是不错的。首先是扫码关注一个微信公众号服务号，名字是&lt;strong&gt;西安交大一附院患者服务平台&lt;/strong&gt;，点击菜单 &lt;code&gt;医院主页&lt;/code&gt; 就会跳转到&lt;strong&gt;交大一附院患者服务&lt;/strong&gt;小程序。&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=&#34;https://img-upyun.kekeyu.top/202201151455919.PNG&#34; alt=&#34;扫码-关注-点菜单三步挡住了很多人&#34;&gt;
+    &lt;figcaption&gt;扫码-关注-点菜单三步挡住了很多人&lt;/figcaption&gt;
+    &lt;/center&gt;
+    &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;从公众号跳转到小程序很明显是多余的操作，现场我发现好几个人在这一步就被劝退了， &lt;code&gt;关注&lt;/code&gt; 按钮太小用户很容易忽略。到达第二个界面后全空白也让人摸不着头脑。其实运营方这样设置也可以理解，小程序目前似乎没有很好的办法发送营销通知，搞这一步是为了运营自己方便。这里有个疑问，冲突的时候工具到底是为了方便用户还是方面运营？该怎么取舍很明显，砍掉多余步骤直接让用户扫小程序二维码才是对的，如果这个跳转就挡住了很多人那这个小程序就没有存在的必要了。&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=&#34;https://img-upyun.kekeyu.top/202201151455545.PNG&#34; alt=&#34;使用微信绑定号码登陆永远是最方便的&#34;&gt;
+    &lt;figcaption&gt;使用微信绑定号码登陆永远是最方便的&lt;/figcaption&gt;
+    &lt;/center&gt;
+    &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;登陆可以直接使用微信绑定的手机号码，原来我在交大一附院有过就诊记录建立过就诊卡，系统自动根据手机号码识别出了我的身份，可以选择已有的就诊卡激活。意外的发现我之前的就诊卡里还有35元余额没用完，这点好评。可惜这次核酸检测要38元，余额不足所以没测试余额能不能直接支付。也可以选择新建就诊卡信息，这个虽然复杂但是没毛病，毕竟实际使用情况太多了。&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=&#34;https://img-upyun.kekeyu.top/202201151455544.PNG&#34; alt=&#34;填写的信息和筛查表信息有重复，推测后者是上级部门强制要求的&#34;&gt;
+    &lt;figcaption&gt;填写的信息和筛查表信息有重复，推测后者是上级部门强制要求的&lt;/figcaption&gt;
+    &lt;/center&gt;
+    &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;点击 &lt;code&gt;核酸预约检测&lt;/code&gt; ，系统会展示目前的号源信息和预约时间，填写一堆患者信息筛查表后，微信支付就预约成功了了。这里信息推测今天已经预约了170个人，假设上午8点30分开始预约，而且全都是预约到当天，那么到10点35分两个小时预约了170人，平均每小时85人。这篇文章截稿时我再看了一眼，到下午1点45分三个小时预约了147人，平均每小时49人。考虑到一半市民都是集中到上午做核酸，这个数据应该是准确的。假设没有昨天预约到今天的话，当日平均每小时预约检测63.3人，这个效率是高是低我不太懂，不是专业人士。&lt;/p&gt;
+&lt;p&gt;预约成功后会生成二维码， 在旁边的小房间自助机上，对准自助机摄像头可以自动打印个人条形码。个人猜测这一部又会难住不少人，用户的惯性思维是我扫别人，或者在机器上输入内容，把我的二维码伸过去让机器扫其实是一个不符合直觉的行为，这个操作会击沉绝大多数的老年人。我观察过电影票线下取票这个环节，年轻人群体在线下取票时大部分人依然是采用输入取票码的方式，让机器扫码用的人不多。一方面是操作不符合直觉，另一方面用很多情况如没有对准摄像头、手机息屏、屏幕亮度不够、机器响应速度慢等原因导致成功率不高。如果同时在最后的人工实操阶段打印的话，体验会提升很多。实操人员可以根据检测人数多少自由调整在机器上打印还是在实测窗口打印。&lt;/p&gt;
+&lt;p&gt;拿到个人条形码后，交给窗口人员，就可以直接捅嗓子了，检测人员会把条形码贴在检测试剂上。这里不需要出示&lt;strong&gt;西安一码通&lt;/strong&gt;，我专门询问了检测人员，应该是自动同步医院信息到&lt;strong&gt;西安一码通&lt;/strong&gt;平台了，这个优化还是不错的又节省了一步操作。检测人员说下午3点后出结果，我就离开了。&lt;/p&gt;
+&lt;p&gt;走到车上，手机就收到短信提醒，居然是电子票据。让我比较意外，大西安居然有这样的信息化服务能力，可惜打开查看时就失望了，短信里提到了&lt;strong&gt;票据代码&lt;/strong&gt;、&lt;strong&gt;票据号码&lt;/strong&gt;、&lt;strong&gt;校验码&lt;/strong&gt;三个随机数字，要全部填写进去才能查看，错一个都不行。并且短信里三个数字顺序是ABC，手机页面里填写顺序却是BAC，&lt;strong&gt;票据代码&lt;/strong&gt;和&lt;strong&gt;票据号码&lt;/strong&gt;哪个往哪里填，我反复核对了2分钟才搞清楚，这两个文字太相似了，实在想不通为什么要填写这么多信息才能查看。&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=&#34;https://img-upyun.kekeyu.top/202201151455921.PNG&#34; alt=&#34;要填写3个代码才能提交查看，不太理解&#34;&gt;
+    &lt;figcaption&gt;要填写3个代码才能提交查看，不太理解&lt;/figcaption&gt;
+    &lt;/center&gt;
+    &lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;走之前看了一眼，我来时在研究流程的那几个人早就放弃离开了。这东西当然难不住我，因为没有人排队全流程走完实际只花了2分钟。从程序设计的角度来看其实还算简单，也挺方便，但要改变人们的惯性思维光靠程序设计确实不够，绝大多数人不喜欢看冷冰冰的图文流程，喜欢张嘴不喜欢动手，习惯有问必答和服务人员代劳，这点在二线三线城市尤其明显，更别提还有众多的老年人、残障人士。&lt;/p&gt;
+&lt;p&gt;所以说做产品服务要把用户当作三岁小孩来看待，线上要足够简单甚至弱智，线下要人工辅导培养用户习惯，互相配合分流和支撑。提升一个城市的信息化服务能力确实任重而道远，需要服务者和用户共同学习进步，而服务者永远应该是主动的一方。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiaomao260.github.io/blog.hugo/categories/%E6%97%A5%E8%AE%B0/">日记</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiaomao260.github.io/blog.hugo/tags/%E8%A5%BF%E5%AE%89/">西安</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiaomao260.github.io/blog.hugo/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/">小程序</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiaomao260.github.io/blog.hugo/tags/%E5%8C%BB%E9%99%A2/">医院</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiaomao260.github.io/blog.hugo/tags/%E7%96%AB%E6%83%85/">疫情</category>
+                                
+                            
+                                
+                                
+                                
+                                    <category domain="https://xiaomao260.github.io/blog.hugo/tags/%E9%98%8E%E8%89%AF/">阎良</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>宣传的阵地，我们不去占领，敌人就会去占领</title>
