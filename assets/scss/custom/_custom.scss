@@ -33,10 +33,10 @@ figcaption {
 }
 .post img {
   margin-bottom: 0.6rem;
-  border:0px;
+  border: 0px;
 }
 code {
-  font-family: Optima-Regular, PingFangTC-light;
+  font-family: Optima-Regular, PingFangTC-light, Microsoft Yahei，微软雅黑;
   overflow-wrap: break-word;
   overflow-wrap: break-word;
   word-wrap: break-word;
@@ -46,6 +46,7 @@ code {
   margin: 0 0.3rem;
   background: linear-gradient(to right, #cff0ff, #afcafd);
   color: #000;
+  font-size:100%;
 }
 .post-body a {
   color: #50adea;
