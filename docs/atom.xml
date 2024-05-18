@@ -4,22 +4,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">术不学</title>
     <subtitle type="html">艺术源于练习</subtitle>
-    <updated>2022-01-16T23:58:15&#43;08:00</updated>
-    <id>https://xiaomao260.github.io/blog.hugo/</id>
-    <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/" />
-    <link rel="self" type="application/atom&#43;xml" href="https://xiaomao260.github.io/blog.hugo/atom.xml" />
+    <updated>2024-05-18T11:28:02&#43;08:00</updated>
+    <id>http://localhost:1313/blog.hugo/</id>
+    <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/" />
+    <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/blog.hugo/atom.xml" />
     <author>
             <name>术不学</name>
-            <uri>https://xiaomao260.github.io/</uri>
+            <uri>http://localhost:1313/</uri>
             
                 <email>kekeyu260@gmail.com</email>
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
-    <generator uri="https://gohugo.io/" version="0.92.0">Hugo</generator>
+    <generator uri="https://gohugo.io/" version="0.126.1">Hugo</generator>
         <entry>
             <title type="text">记一次核酸检测</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/ca0e9487/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/ca0e9487/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/ca0e9487/" />
+            <id>http://localhost:1313/blog.hugo/posts/ca0e9487/</id>
             <updated>2022-01-15T15:02:49&#43;08:00</updated>
             <published>2022-01-15T15:01:18&#43;08:00</published>
             <author>
@@ -77,7 +77,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
                             
                         
                     
@@ -87,31 +87,31 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E8%A5%BF%E5%AE%89/" term="西安" label="西安" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E8%A5%BF%E5%AE%89/" term="西安" label="西安" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/" term="小程序" label="小程序" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%B0%8F%E7%A8%8B%E5%BA%8F/" term="小程序" label="小程序" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%8C%BB%E9%99%A2/" term="医院" label="医院" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%8C%BB%E9%99%A2/" term="医院" label="医院" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%96%AB%E6%83%85/" term="疫情" label="疫情" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%96%AB%E6%83%85/" term="疫情" label="疫情" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%98%8E%E8%89%AF/" term="阎良" label="阎良" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%98%8E%E8%89%AF/" term="阎良" label="阎良" />
                             
                         
                     
@@ -121,8 +121,8 @@
     
         <entry>
             <title type="text">宣传的阵地，我们不去占领，敌人就会去占领</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/333e46d6/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/333e46d6/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/333e46d6/" />
+            <id>http://localhost:1313/blog.hugo/posts/333e46d6/</id>
             <updated>2022-01-14T22:48:45&#43;08:00</updated>
             <published>2022-01-12T14:09:11&#43;08:00</published>
             <author>
@@ -162,7 +162,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
                             
                         
                     
@@ -172,19 +172,19 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E8%A5%BF%E5%AE%89/" term="西安" label="西安" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E8%A5%BF%E5%AE%89/" term="西安" label="西安" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%96%AB%E6%83%85/" term="疫情" label="疫情" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%96%AB%E6%83%85/" term="疫情" label="疫情" />
                             
                         
                     
@@ -194,8 +194,8 @@
     
         <entry>
             <title type="text">聊聊韩国（二）</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/64b1722c/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/64b1722c/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/64b1722c/" />
+            <id>http://localhost:1313/blog.hugo/posts/64b1722c/</id>
             <updated>2022-01-14T22:48:48&#43;08:00</updated>
             <published>2022-01-10T22:29:27&#43;08:00</published>
             <author>
@@ -232,7 +232,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
                             
                         
                     
@@ -242,31 +242,31 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%9F%A9%E5%9B%BD/" term="韩国" label="韩国" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%9F%A9%E5%9B%BD/" term="韩国" label="韩国" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E8%AE%B0%E5%BF%86/" term="记忆" label="记忆" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E8%AE%B0%E5%BF%86/" term="记忆" label="记忆" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%94%B5%E8%A7%86%E5%89%A7/" term="电视剧" label="电视剧" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%94%B5%E8%A7%86%E5%89%A7/" term="电视剧" label="电视剧" />
                             
                         
                     
@@ -276,8 +276,8 @@
     
         <entry>
             <title type="text">聊聊韩国（一）</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/3288243b/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/3288243b/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/3288243b/" />
+            <id>http://localhost:1313/blog.hugo/posts/3288243b/</id>
             <updated>2022-01-14T22:48:40&#43;08:00</updated>
             <published>2022-01-04T03:04:26&#43;08:00</published>
             <author>
@@ -313,7 +313,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
                             
                         
                     
@@ -323,19 +323,19 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%9F%A9%E5%9B%BD/" term="韩国" label="韩国" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%9F%A9%E5%9B%BD/" term="韩国" label="韩国" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E8%AE%B0%E5%BF%86/" term="记忆" label="记忆" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E8%AE%B0%E5%BF%86/" term="记忆" label="记忆" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
                             
                         
                     
@@ -345,8 +345,8 @@
     
         <entry>
             <title type="text">元旦记</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/dfe410e0/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/dfe410e0/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/dfe410e0/" />
+            <id>http://localhost:1313/blog.hugo/posts/dfe410e0/</id>
             <updated>2022-01-14T22:48:57&#43;08:00</updated>
             <published>2022-01-01T16:53:04&#43;08:00</published>
             <author>
@@ -381,7 +381,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
                             
                         
                     
@@ -391,43 +391,43 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%96%AB%E6%83%85/" term="疫情" label="疫情" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%96%AB%E6%83%85/" term="疫情" label="疫情" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E8%A5%BF%E5%AE%89/" term="西安" label="西安" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E8%A5%BF%E5%AE%89/" term="西安" label="西安" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/mac/" term="Mac" label="Mac" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/mac/" term="Mac" label="Mac" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/apple/" term="Apple" label="Apple" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/apple/" term="Apple" label="Apple" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/m1/" term="M1" label="M1" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/m1/" term="M1" label="M1" />
                             
                         
                     
@@ -437,8 +437,8 @@
     
         <entry>
             <title type="text">电脑主机之路小回顾</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/4886b069/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/4886b069/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/4886b069/" />
+            <id>http://localhost:1313/blog.hugo/posts/4886b069/</id>
             <updated>2022-01-14T22:48:02&#43;08:00</updated>
             <published>2021-04-22T12:08:01&#43;08:00</published>
             <author>
@@ -558,7 +558,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/" term="数字生活" label="数字生活" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/" term="数字生活" label="数字生活" />
                             
                         
                     
@@ -568,13 +568,13 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%94%B5%E8%84%91/" term="电脑" label="电脑" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%94%B5%E8%84%91/" term="电脑" label="电脑" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E8%A3%85%E6%9C%BA/" term="装机" label="装机" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E8%A3%85%E6%9C%BA/" term="装机" label="装机" />
                             
                         
                     
@@ -584,8 +584,8 @@
     
         <entry>
             <title type="text">闲谈</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/534336fd/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/534336fd/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/534336fd/" />
+            <id>http://localhost:1313/blog.hugo/posts/534336fd/</id>
             <updated>2022-01-14T22:48:43&#43;08:00</updated>
             <published>2021-02-20T15:13:51&#43;08:00</published>
             <author>
@@ -623,7 +623,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
                             
                         
                     
@@ -633,7 +633,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
                             
                         
                     
@@ -643,8 +643,8 @@
     
         <entry>
             <title type="text">Redmi K30 Pro 使用体验</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/a77786ca/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/a77786ca/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/a77786ca/" />
+            <id>http://localhost:1313/blog.hugo/posts/a77786ca/</id>
             <updated>2022-01-14T22:49:09&#43;08:00</updated>
             <published>2020-10-27T21:41:07&#43;08:00</published>
             <author>
@@ -833,7 +833,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/" term="数字生活" label="数字生活" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/" term="数字生活" label="数字生活" />
                             
                         
                     
@@ -843,37 +843,37 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/ios/" term="iOS" label="iOS" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/ios/" term="IOS" label="IOS" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/android/" term="Android" label="Android" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/android/" term="Android" label="Android" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/apple/" term="Apple" label="Apple" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/apple/" term="Apple" label="Apple" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%AE%89%E5%8D%93/" term="安卓" label="安卓" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%AE%89%E5%8D%93/" term="安卓" label="安卓" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%89%8B%E6%9C%BA/" term="手机" label="手机" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%89%8B%E6%9C%BA/" term="手机" label="手机" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%BA%A2%E7%B1%B3/" term="红米" label="红米" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%BA%A2%E7%B1%B3/" term="红米" label="红米" />
                             
                         
                     
@@ -883,8 +883,8 @@
     
         <entry>
             <title type="text">iPhone12取消充电头说</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/2a3c0ebf/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/2a3c0ebf/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/2a3c0ebf/" />
+            <id>http://localhost:1313/blog.hugo/posts/2a3c0ebf/</id>
             <updated>2022-01-14T22:49:06&#43;08:00</updated>
             <published>2020-10-22T09:44:20&#43;08:00</published>
             <author>
@@ -939,7 +939,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/" term="数字生活" label="数字生活" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/" term="数字生活" label="数字生活" />
                             
                         
                     
@@ -949,19 +949,19 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/apple/" term="Apple" label="Apple" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/apple/" term="Apple" label="Apple" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/iphone/" term="iPhone" label="iPhone" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/iphone/" term="IPhone" label="IPhone" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%95%B0%E7%A0%81/" term="数码" label="数码" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%95%B0%E7%A0%81/" term="数码" label="数码" />
                             
                         
                     
@@ -971,8 +971,8 @@
     
         <entry>
             <title type="text">7月观影影评</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/c44107c5/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/c44107c5/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/c44107c5/" />
+            <id>http://localhost:1313/blog.hugo/posts/c44107c5/</id>
             <updated>2022-01-14T22:47:58&#43;08:00</updated>
             <published>2020-08-10T22:03:18&#43;08:00</published>
             <author>
@@ -1058,7 +1058,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
                             
                         
                     
@@ -1068,19 +1068,19 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E8%80%81%E6%97%A0%E6%89%80%E4%BE%9D/" term="老无所依" label="老无所依" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E8%80%81%E6%97%A0%E6%89%80%E4%BE%9D/" term="老无所依" label="老无所依" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E8%A2%AB%E5%AB%8C%E5%BC%83%E6%9D%BE%E5%AD%90%E7%9A%84%E4%B8%80%E7%94%9F/" term="被嫌弃松子的一生" label="被嫌弃松子的一生" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E8%A2%AB%E5%AB%8C%E5%BC%83%E6%9D%BE%E5%AD%90%E7%9A%84%E4%B8%80%E7%94%9F/" term="被嫌弃松子的一生" label="被嫌弃松子的一生" />
                             
                         
                     
@@ -1090,8 +1090,8 @@
     
         <entry>
             <title type="text">20万以上的数据该如何快速处理</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/32897c7a/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/32897c7a/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/32897c7a/" />
+            <id>http://localhost:1313/blog.hugo/posts/32897c7a/</id>
             <updated>2022-01-14T22:48:01&#43;08:00</updated>
             <published>2020-08-05T14:01:03&#43;08:00</published>
             <author>
@@ -1289,7 +1289,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
                             
                         
                     
@@ -1299,25 +1299,25 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%8A%80%E5%B7%A7/" term="技巧" label="技巧" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%8A%80%E5%B7%A7/" term="技巧" label="技巧" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/" term="数据处理" label="数据处理" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86/" term="数据处理" label="数据处理" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/" term="办公软件" label="办公软件" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%8A%9E%E5%85%AC%E8%BD%AF%E4%BB%B6/" term="办公软件" label="办公软件" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/emeditor/" term="Emeditor" label="Emeditor" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/emeditor/" term="Emeditor" label="Emeditor" />
                             
                         
                     
@@ -1327,8 +1327,8 @@
     
         <entry>
             <title type="text">日记</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/11ac3506/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/11ac3506/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/11ac3506/" />
+            <id>http://localhost:1313/blog.hugo/posts/11ac3506/</id>
             <updated>2022-01-14T22:48:50&#43;08:00</updated>
             <published>2020-08-04T03:14:58&#43;08:00</published>
             <author>
@@ -1359,7 +1359,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
                             
                         
                     
@@ -1369,7 +1369,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
                             
                         
                     
@@ -1379,8 +1379,8 @@
     
         <entry>
             <title type="text">有趣的没头脑和不高兴，评《绿皮书》</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/2ec76320/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/2ec76320/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/2ec76320/" />
+            <id>http://localhost:1313/blog.hugo/posts/2ec76320/</id>
             <updated>2022-01-14T22:48:55&#43;08:00</updated>
             <published>2020-01-07T10:18:10&#43;08:00</published>
             <author>
@@ -1443,7 +1443,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
                             
                         
                     
@@ -1453,43 +1453,43 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%BB%BF%E7%9A%AE%E4%B9%A6/" term="绿皮书" label="绿皮书" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%BB%BF%E7%9A%AE%E4%B9%A6/" term="绿皮书" label="绿皮书" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%A5%A5%E6%96%AF%E5%8D%A1/" term="奥斯卡" label="奥斯卡" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%A5%A5%E6%96%AF%E5%8D%A1/" term="奥斯卡" label="奥斯卡" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92/" term="最佳男主角" label="最佳男主角" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92/" term="最佳男主角" label="最佳男主角" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%9C%80%E4%BD%B3%E5%BD%B1%E7%89%87/" term="最佳影片" label="最佳影片" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%9C%80%E4%BD%B3%E5%BD%B1%E7%89%87/" term="最佳影片" label="最佳影片" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%BB%91%E4%BA%BA/" term="黑人" label="黑人" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%BB%91%E4%BA%BA/" term="黑人" label="黑人" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%A7%8D%E6%97%8F/" term="种族" label="种族" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%A7%8D%E6%97%8F/" term="种族" label="种族" />
                             
                         
                     
@@ -1499,8 +1499,8 @@
     
         <entry>
             <title type="text">港片或许真的已死 评《使徒行者2谍影行动》</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/cab73f7d/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/cab73f7d/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/cab73f7d/" />
+            <id>http://localhost:1313/blog.hugo/posts/cab73f7d/</id>
             <updated>2022-01-14T22:48:05&#43;08:00</updated>
             <published>2020-01-03T18:30:31&#43;08:00</published>
             <author>
@@ -1570,7 +1570,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
                             
                         
                     
@@ -1580,37 +1580,37 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%A6%99%E6%B8%AF/" term="香港" label="香港" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%A6%99%E6%B8%AF/" term="香港" label="香港" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E4%BD%BF%E5%BE%92%E8%A1%8C%E8%80%85/" term="使徒行者" label="使徒行者" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E4%BD%BF%E5%BE%92%E8%A1%8C%E8%80%85/" term="使徒行者" label="使徒行者" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1/" term="香港电影" label="香港电影" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1/" term="香港电影" label="香港电影" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/" term="动作片" label="动作片" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%8A%A8%E4%BD%9C%E7%89%87/" term="动作片" label="动作片" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E8%AD%A6%E5%8C%AA%E7%89%87/" term="警匪片" label="警匪片" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E8%AD%A6%E5%8C%AA%E7%89%87/" term="警匪片" label="警匪片" />
                             
                         
                     
@@ -1620,8 +1620,8 @@
     
         <entry>
             <title type="text">《中国机长》影评</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/1934a4d2/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/1934a4d2/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/1934a4d2/" />
+            <id>http://localhost:1313/blog.hugo/posts/1934a4d2/</id>
             <updated>2022-01-14T22:47:56&#43;08:00</updated>
             <published>2019-12-27T22:41:57&#43;08:00</published>
             <author>
@@ -1679,7 +1679,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
                             
                         
                     
@@ -1689,25 +1689,25 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%95%BF/" term="中国机长" label="中国机长" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E4%B8%AD%E5%9B%BD%E6%9C%BA%E9%95%BF/" term="中国机长" label="中国机长" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%88%98%E4%BC%9F%E5%BC%BA/" term="刘伟强" label="刘伟强" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%88%98%E4%BC%9F%E5%BC%BA/" term="刘伟强" label="刘伟强" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%81%BE%E9%9A%BE%E7%89%87/" term="灾难片" label="灾难片" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%81%BE%E9%9A%BE%E7%89%87/" term="灾难片" label="灾难片" />
                             
                         
                     
@@ -1717,8 +1717,8 @@
     
         <entry>
             <title type="text">半个喜剧只是半部电影</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/a55f4f65/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/a55f4f65/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/a55f4f65/" />
+            <id>http://localhost:1313/blog.hugo/posts/a55f4f65/</id>
             <updated>2022-01-14T22:47:52&#43;08:00</updated>
             <published>2019-12-27T22:06:29&#43;08:00</published>
             <author>
@@ -1767,7 +1767,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
                             
                         
                     
@@ -1777,31 +1777,31 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%8D%8A%E4%B8%AA%E5%96%9C%E5%89%A7/" term="半个喜剧" label="半个喜剧" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%8D%8A%E4%B8%AA%E5%96%9C%E5%89%A7/" term="半个喜剧" label="半个喜剧" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%96%9C%E5%89%A7%E7%89%87/" term="喜剧片" label="喜剧片" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%96%9C%E5%89%A7%E7%89%87/" term="喜剧片" label="喜剧片" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1/" term="开心麻花" label="开心麻花" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%BC%80%E5%BF%83%E9%BA%BB%E8%8A%B1/" term="开心麻花" label="开心麻花" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%B0%8F%E5%93%81/" term="小品" label="小品" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%B0%8F%E5%93%81/" term="小品" label="小品" />
                             
                         
                     
@@ -1811,8 +1811,8 @@
     
         <entry>
             <title type="text">近期影评 12月 2</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/c7117df0/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/c7117df0/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/c7117df0/" />
+            <id>http://localhost:1313/blog.hugo/posts/c7117df0/</id>
             <updated>2022-01-14T22:48:35&#43;08:00</updated>
             <published>2019-12-20T23:43:27&#43;08:00</published>
             <author>
@@ -1938,7 +1938,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
                             
                         
                     
@@ -1948,31 +1948,31 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%A9%9A%E5%A7%BB%E6%95%85%E4%BA%8B/" term="婚姻故事" label="婚姻故事" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%A9%9A%E5%A7%BB%E6%95%85%E4%BA%8B/" term="婚姻故事" label="婚姻故事" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%94%80%E7%99%BB%E8%80%85/" term="攀登者" label="攀登者" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%94%80%E7%99%BB%E8%80%85/" term="攀登者" label="攀登者" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E8%AF%AF%E6%9D%80/" term="误杀" label="误杀" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E8%AF%AF%E6%9D%80/" term="误杀" label="误杀" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD/" term="我和我的祖国" label="我和我的祖国" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%88%91%E5%92%8C%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD/" term="我和我的祖国" label="我和我的祖国" />
                             
                         
                     
@@ -1982,8 +1982,8 @@
     
         <entry>
             <title type="text">近期影评 12月 1</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/f2f07cb4/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/f2f07cb4/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/f2f07cb4/" />
+            <id>http://localhost:1313/blog.hugo/posts/f2f07cb4/</id>
             <updated>2022-01-14T22:48:14&#43;08:00</updated>
             <published>2019-12-19T18:07:59&#43;08:00</published>
             <author>
@@ -2073,7 +2073,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
                             
                         
                     
@@ -2083,25 +2083,25 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%88%B1%E5%B0%94%E5%85%B0%E4%BA%BA/" term="爱尔兰人" label="爱尔兰人" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%88%B1%E5%B0%94%E5%85%B0%E4%BA%BA/" term="爱尔兰人" label="爱尔兰人" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%88%A9%E5%88%83%E5%87%BA%E9%9E%98/" term="利刃出鞘" label="利刃出鞘" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%88%A9%E5%88%83%E5%87%BA%E9%9E%98/" term="利刃出鞘" label="利刃出鞘" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%AC%BC%E5%BD%B1%E7%89%B9%E6%94%BB/" term="鬼影特攻" label="鬼影特攻" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E9%AC%BC%E5%BD%B1%E7%89%B9%E6%94%BB/" term="鬼影特攻" label="鬼影特攻" />
                             
                         
                     
@@ -2111,8 +2111,8 @@
     
         <entry>
             <title type="text">一秒找到你想要的文件</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/fd313faf/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/fd313faf/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/fd313faf/" />
+            <id>http://localhost:1313/blog.hugo/posts/fd313faf/</id>
             <updated>2022-01-14T22:48:52&#43;08:00</updated>
             <published>2019-11-27T18:19:19&#43;08:00</published>
             <author>
@@ -2264,7 +2264,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
                             
                         
                     
@@ -2274,31 +2274,31 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%8A%80%E5%B7%A7/" term="技巧" label="技巧" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%8A%80%E5%B7%A7/" term="技巧" label="技巧" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/everything/" term="Everything" label="Everything" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/everything/" term="Everything" label="Everything" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/" term="文件管理" label="文件管理" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86/" term="文件管理" label="文件管理" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%90%9C%E7%B4%A2/" term="搜索" label="搜索" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%90%9C%E7%B4%A2/" term="搜索" label="搜索" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
                             
                         
                     
@@ -2308,8 +2308,8 @@
     
         <entry>
             <title type="text">几乎完美的个人表演，但并不是最精彩的电影</title>
-            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/3509dfd8/" />
-            <id>https://xiaomao260.github.io/blog.hugo/posts/3509dfd8/</id>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/3509dfd8/" />
+            <id>http://localhost:1313/blog.hugo/posts/3509dfd8/</id>
             <updated>2022-01-14T22:48:08&#43;08:00</updated>
             <published>2019-11-27T09:58:54&#43;08:00</published>
             <author>
@@ -2404,7 +2404,7 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E5%BD%B1%E8%AF%84/" term="影评" label="影评" />
                             
                         
                     
@@ -2414,31 +2414,31 @@
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%B0%8F%E4%B8%91/" term="小丑" label="小丑" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%B0%8F%E4%B8%91/" term="小丑" label="小丑" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E7%94%B5%E5%BD%B1/" term="电影" label="电影" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E5%B8%8C%E6%96%AF%E8%8E%B1%E6%9D%B0/" term="希斯莱杰" label="希斯莱杰" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E5%B8%8C%E6%96%AF%E8%8E%B1%E6%9D%B0/" term="希斯莱杰" label="希斯莱杰" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/dc/" term="DC" label="DC" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/dc/" term="DC" label="DC" />
                             
                         
                             
                             
                             
-                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%BC%AB%E7%94%BB/" term="漫画" label="漫画" />
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%BC%AB%E7%94%BB/" term="漫画" label="漫画" />
                             
                         
                     
