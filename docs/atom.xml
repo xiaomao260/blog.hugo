@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">术不学</title>
     <subtitle type="html">艺术源于练习</subtitle>
-    <updated>2024-05-18T11:28:02&#43;08:00</updated>
+    <updated>2024-05-18T11:39:08&#43;08:00</updated>
     <id>http://localhost:1313/blog.hugo/</id>
     <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/" />
     <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/blog.hugo/atom.xml" />
@@ -16,6 +16,50 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.126.1">Hugo</generator>
+        <entry>
+            <title type="text">测试</title>
+            <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/5fb8fc2d/" />
+            <id>http://localhost:1313/blog.hugo/posts/5fb8fc2d/</id>
+            <updated>2024-05-18T11:38:46&#43;08:00</updated>
+            <published>2024-05-18T11:37:53&#43;08:00</published>
+            <author>
+                    <name>术不学</name>
+                    <uri>https://xiaomao260.github.io/blog.hugo/</uri>
+                    <email>kekeyu260@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">两三年不动，已经完全忘记了怎么同步这一套东西，测试一下</summary>
+            
+                <content type="html">&lt;p&gt;两三年不动，已经完全忘记了怎么同步这一套东西，测试一下&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="http://localhost:1313/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="http://localhost:1313/blog.hugo/tags/%E6%B5%8B%E8%AF%95/" term="测试" label="测试" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">记一次核酸检测</title>
             <link rel="alternate" type="text/html" href="http://localhost:1313/blog.hugo/posts/ca0e9487/" />

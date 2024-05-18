@@ -23,10 +23,51 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 18 May 2024 11:28:02 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 18 May 2024 11:39:08 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/blog.hugo/rss.xml" />
         
+        
+            <item>
+                <title>测试</title>
+                <link>http://localhost:1313/blog.hugo/posts/5fb8fc2d/</link>
+                <guid isPermaLink="true">http://localhost:1313/blog.hugo/posts/5fb8fc2d/</guid>
+                <pubDate>Sat, 18 May 2024 11:37:53 &#43;0800</pubDate>
+                
+                    <author>kekeyu260@gmail.com (术不学)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;两三年不动，已经完全忘记了怎么同步这一套东西，测试一下&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://localhost:1313/blog.hugo/categories/%E6%97%A5%E8%AE%B0/">日记</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="http://localhost:1313/blog.hugo/tags/%E6%B5%8B%E8%AF%95/">测试</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>记一次核酸检测</title>
