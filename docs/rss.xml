@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 18 May 2024 11:39:08 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 18 May 2024 18:25:56 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/blog.hugo/rss.xml" />
         
@@ -38,7 +38,7 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;两三年不动，已经完全忘记了怎么同步这一套东西，测试一下&lt;/p&gt;
+                    <description>&lt;p&gt;两三年不动，已经完全忘记了怎么同步这一套东西，测试一下。顺便把又拍云的图床转移到 github 上来。&lt;/p&gt;
 </description>
                 
                 
@@ -85,21 +85,15 @@
 &lt;p&gt;操作不需要下载APP，使用微信小程序这点还是不错的。首先是扫码关注一个微信公众号服务号，名字是&lt;strong&gt;西安交大一附院患者服务平台&lt;/strong&gt;，点击菜单 &lt;code&gt;医院主页&lt;/code&gt; 就会跳转到&lt;strong&gt;交大一附院患者服务&lt;/strong&gt;小程序。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/202201151455919.PNG&#34; alt=&#34;扫码-关注-点菜单三步挡住了很多人&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/202201151456646.2h84qvumfd.webp&#34; alt=&#34;扫码-关注-点菜单三步挡住了很多人&#34;&gt;
     &lt;figcaption&gt;扫码-关注-点菜单三步挡住了很多人&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;从公众号跳转到小程序很明显是多余的操作，现场我发现好几个人在这一步就被劝退了， &lt;code&gt;关注&lt;/code&gt; 按钮太小用户很容易忽略。到达第二个界面后全空白也让人摸不着头脑。其实运营方这样设置也可以理解，小程序目前似乎没有很好的办法发送营销通知，搞这一步是为了运营自己方便。这里有个疑问，冲突的时候工具到底是为了方便用户还是方面运营？该怎么取舍很明显，砍掉多余步骤直接让用户扫小程序二维码才是对的，如果这个跳转就挡住了很多人那这个小程序就没有存在的必要了。&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/202201151455545.PNG&#34; alt=&#34;使用微信绑定号码登陆永远是最方便的&#34;&gt;
-    &lt;figcaption&gt;使用微信绑定号码登陆永远是最方便的&lt;/figcaption&gt;
-    &lt;/center&gt;
-    &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;登陆可以直接使用微信绑定的手机号码，原来我在交大一附院有过就诊记录建立过就诊卡，系统自动根据手机号码识别出了我的身份，可以选择已有的就诊卡激活。意外的发现我之前的就诊卡里还有35元余额没用完，这点好评。可惜这次核酸检测要38元，余额不足所以没测试余额能不能直接支付。也可以选择新建就诊卡信息，这个虽然复杂但是没毛病，毕竟实际使用情况太多了。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/202201151455544.PNG&#34; alt=&#34;填写的信息和筛查表信息有重复，推测后者是上级部门强制要求的&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/202201151455544.7p3fdvnmdj.webp&#34; alt=&#34;填写的信息和筛查表信息有重复，推测后者是上级部门强制要求的&#34;&gt;
     &lt;figcaption&gt;填写的信息和筛查表信息有重复，推测后者是上级部门强制要求的&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -107,12 +101,6 @@
 &lt;p&gt;预约成功后会生成二维码， 在旁边的小房间自助机上，对准自助机摄像头可以自动打印个人条形码。个人猜测这一部又会难住不少人，用户的惯性思维是我扫别人，或者在机器上输入内容，把我的二维码伸过去让机器扫其实是一个不符合直觉的行为，这个操作会击沉绝大多数的老年人。我观察过电影票线下取票这个环节，年轻人群体在线下取票时大部分人依然是采用输入取票码的方式，让机器扫码用的人不多。一方面是操作不符合直觉，另一方面用很多情况如没有对准摄像头、手机息屏、屏幕亮度不够、机器响应速度慢等原因导致成功率不高。如果同时在最后的人工实操阶段打印的话，体验会提升很多。实操人员可以根据检测人数多少自由调整在机器上打印还是在实测窗口打印。&lt;/p&gt;
 &lt;p&gt;拿到个人条形码后，交给窗口人员，就可以直接捅嗓子了，检测人员会把条形码贴在检测试剂上。这里不需要出示&lt;strong&gt;西安一码通&lt;/strong&gt;，我专门询问了检测人员，应该是自动同步医院信息到&lt;strong&gt;西安一码通&lt;/strong&gt;平台了，这个优化还是不错的又节省了一步操作。检测人员说下午3点后出结果，我就离开了。&lt;/p&gt;
 &lt;p&gt;走到车上，手机就收到短信提醒，居然是电子票据。让我比较意外，大西安居然有这样的信息化服务能力，可惜打开查看时就失望了，短信里提到了&lt;strong&gt;票据代码&lt;/strong&gt;、&lt;strong&gt;票据号码&lt;/strong&gt;、&lt;strong&gt;校验码&lt;/strong&gt;三个随机数字，要全部填写进去才能查看，错一个都不行。并且短信里三个数字顺序是ABC，手机页面里填写顺序却是BAC，&lt;strong&gt;票据代码&lt;/strong&gt;和&lt;strong&gt;票据号码&lt;/strong&gt;哪个往哪里填，我反复核对了2分钟才搞清楚，这两个文字太相似了，实在想不通为什么要填写这么多信息才能查看。&lt;/p&gt;
-&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/202201151455921.PNG&#34; alt=&#34;要填写3个代码才能提交查看，不太理解&#34;&gt;
-    &lt;figcaption&gt;要填写3个代码才能提交查看，不太理解&lt;/figcaption&gt;
-    &lt;/center&gt;
-    &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;走之前看了一眼，我来时在研究流程的那几个人早就放弃离开了。这东西当然难不住我，因为没有人排队全流程走完实际只花了2分钟。从程序设计的角度来看其实还算简单，也挺方便，但要改变人们的惯性思维光靠程序设计确实不够，绝大多数人不喜欢看冷冰冰的图文流程，喜欢张嘴不喜欢动手，习惯有问必答和服务人员代劳，这点在二线三线城市尤其明显，更别提还有众多的老年人、残障人士。&lt;/p&gt;
 &lt;p&gt;所以说做产品服务要把用户当作三岁小孩来看待，线上要足够简单甚至弱智，线下要人工辅导培养用户习惯，互相配合分流和支撑。提升一个城市的信息化服务能力确实任重而道远，需要服务者和用户共同学习进步，而服务者永远应该是主动的一方。&lt;/p&gt;
 </description>
@@ -181,7 +169,7 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/ad99bd29fae44c04ab54f07aeaaebee9.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/ad99bd29fae44c04ab54f07aeaaebee9.6pnc0oiyoy.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -396,7 +384,7 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/2343.jpeg&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/2343.8vmqmgefp1.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -485,7 +473,7 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20210422121757.JPG&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e5%be%ae%e4%bf%a1%e5%9b%be%e7%89%87_20210422092446-1619064773652.iby0iawap.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -629,7 +617,7 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20210220155507.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/v2-e7f79257936545723e61b87cf3f14482_r.lvjy8fcoo.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -639,7 +627,7 @@
 &lt;p&gt;我这个人如果一段时间里没有新鲜东西刺激，或者学不到新东西就变得萎靡矫情了，希望这只是我自己的问题吧。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20210220161724.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/1244.32hsd5m8l6.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -685,7 +673,7 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154405.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/snipaste_20201029_133319.9rj81wsunk.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -695,7 +683,7 @@
 &lt;p&gt;K30 Pro是全面屏+OLED屏。手机正面是一整个屏幕，没有刘海和挖孔的观感真的太棒了！屏幕边框是上、左、右三等边，下边框宽一点，四个R角和手机外边框并不是完美对应。这一点其实我更喜欢苹果的四边等宽处理，但K30 Pro用习惯了也能接受，毕竟正面没有刘海和挖孔加分太多。手机前置摄像头做成了升降式，升起来后有点难看特别是光效很低俗，不知道小米工程师的审美在这里为什么会下降这么多。都说升降式镜头增加了重量降低了防水，我觉得这些都不是问题，在一整块屏幕面前都能接受。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154332.jpg&#34; alt=&#34;真机的R角与边框没有宣传图这么一致，前置镜头也够丑，但是真正的全面屏弥补了一切&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/Snipaste_2020-10-27_22-15-20.8hgavlavce.webp&#34; alt=&#34;真机的R角与边框没有宣传图这么一致，前置镜头也够丑，但是真正的全面屏弥补了一切&#34;&gt;
     &lt;figcaption&gt;真机的R角与边框没有宣传图这么一致，前置镜头也够丑，但是真正的全面屏弥补了一切&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -704,7 +692,7 @@
 &lt;p&gt;MIUI或许不是最早做息屏显示的，但却是把它玩出花来的第一家。得益于OLED息屏不发光省电的优势，MIUI在所有的OLED屏幕手机上都可以开启息屏显示。手机在关闭屏幕的情况下，可以长时间显示时间、日历、电池、通知消息图标等信息，而且来通知的时候也不需要把整个手机都点亮，只会显示一个闪烁动画出现一个通知APP图标。这个功能非常实用，因为很多时候我只是想看一眼时间日期，以及有没有通知消息而已，手机放着不用的时候也能展示信息真的很方便。MIUI还搭配了双击亮屏和抬起亮屏，为了避免烧屏显示消息也会随机变换位置，长时间不操作显示信息就会完全熄灭，种种小细节都更加完善了这个功能的整体体验。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103182130.jpg&#34; alt=&#34;支持各种图案和动画与信息自定义，时间日期通知一目了然方便快速查看&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-28_21-46-26.lvjy8ou21.webp&#34; alt=&#34;支持各种图案和动画与信息自定义，时间日期通知一目了然方便快速查看&#34;&gt;
     &lt;figcaption&gt;支持各种图案和动画与信息自定义，时间日期通知一目了然方便快速查看&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -718,14 +706,14 @@
 &lt;p&gt;小米一直坚持在中高端机型上标配NFC和红外功能，这一点值得点赞，不像其他国产厂家2000-3000元档位都把NFC砍掉了。K30 Pro 的NFC体验不错，得益于小米一直以来的努力，目前全国大部分地铁和公交都已支持。iPhone虽然从6代开始就支持NFC却一直是个残废，直到近两年才陆续支持了部分城市地铁公交刷卡。对比之下，在西安地铁K30 Pro的识别成功率和速度更佳，XR有时会慢1秒，加上K30 Pro还能复制部分门禁卡，又减轻了我钥匙扣的负担，苹果不知道何时才能彻底开放。还有一点K30 Pro 在西安支持长安通刷卡，地铁9折和公交5折。苹果只有全国统一卡，在西安都是原价，综合看来K30 Pro的NFC体验完胜。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154355.jpg&#34; alt=&#34;K30 Pro在西安通过NFC刷公交只要1元，苹果2元&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/snipaste_20201028_170054.5fkeud9j5c.webp&#34; alt=&#34;K30 Pro在西安通过NFC刷公交只要1元，苹果2元&#34;&gt;
     &lt;figcaption&gt;K30 Pro在西安通过NFC刷公交只要1元，苹果2元&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;关于NFC还有一点让我在意的，那就是iPhoneXR宣称可以在关机后使用备用电量来支持快捷公交刷卡，这点似乎在K30 Pro没看到，苹果的产品细节确实让人赞叹。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154346.jpg&#34; alt=&#34;XS以后的iPhone都支持关机后使用备用电量刷卡&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/snipaste_20201028_165308.lvjy8ou27.webp&#34; alt=&#34;XS以后的iPhone都支持关机后使用备用电量刷卡&#34;&gt;
     &lt;figcaption&gt;XS以后的iPhone都支持关机后使用备用电量刷卡&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -734,7 +722,7 @@
 &lt;p&gt;iPhone4的那个年代越狱非常流行，对我而言有两个插件是必装的，一个是第三方输入法，另一个是&lt;strong&gt;kuaidail&lt;/strong&gt;。后来iOS功能越发完善（从越狱商店偷学了不少功能点），自带输入法完全够用，越狱也不再流行了。但唯独这个&lt;strong&gt;kuaidail&lt;/strong&gt;让我念念不忘。它就是那个年代在iOS打电话的最佳方案没有之一！按任意号码检索，按姓名全拼检索、按姓名简拼检索，按公司和职能部门甚至职位拼音检索，多个结果按频率动态自动调整顺序，拨号、来电和通话记录界面显示归属地，来电界面显示公司名称职位等信息，这些功能点都极大的提升了呼出和呼入效率。MIUI12的拨号键盘也完全支持这些功能（除了不能按拼音检索公司信息），iOS已经到迭代到14了，在这方面依然是个弟弟。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154147.jpg&#34; alt=&#34;9宫格的拼音检索比打字搜索方便一万倍&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-28_22-03-16.1lbnberl7u.webp&#34; alt=&#34;9宫格的拼音检索比打字搜索方便一万倍&#34;&gt;
     &lt;figcaption&gt;9宫格的拼音检索比打字搜索方便一万倍&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -744,7 +732,7 @@
 &lt;p&gt;几乎所有国产App启动时都会出现广告倒计时的启动页，严重拖慢启动速度和体验。就算有跳过按钮也不容易点击，反而更容易点到广告。iOS面对这个问题只能依赖VPN提供的网络管理来过滤广告，但是效果很一般。安卓上的&lt;a href=&#34;http://www.wpengapp.com/lightstart&#34;&gt;轻启动&lt;/a&gt;能很好的解决这个问题，给予轻启动各种权限后，App的启动广告页停留不到1秒就被自动跳过了，不需要操作和点击。用过之后我就再也离不开这个App，效果一流耗电极低，果断付费购买。目前仅发现QQ音乐无法自动跳过，其他的App都完美支持。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103182211.jpg&#34; alt=&#34;使用时间不到1个月，已经自动跳过了400&amp;#43;次广告&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-28_21-39-39.2h84qv19ns.webp&#34; alt=&#34;使用时间不到1个月，已经自动跳过了400&amp;#43;次广告&#34;&gt;
     &lt;figcaption&gt;使用时间不到1个月，已经自动跳过了400&amp;#43;次广告&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -752,7 +740,7 @@
 &lt;p&gt;&lt;a href=&#34;https://play.google.com/store/apps/details?id=com.hengye.share&amp;amp;hl=zh&#34;&gt;share微博&lt;/a&gt;是我用过最棒的全平台第三方微博客户端，正常的时间线显示，没有广告，支持微博各类功能，响应速度一流，界面、字体、间距、主题等等都可以自定义，操作方式也符合安卓规范，还要啥自行车？&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154122.jpg&#34; alt=&#34;可以自定义的选项非常丰富&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-28_21-36-56.9gwe8rdmhz.webp&#34; alt=&#34;可以自定义的选项非常丰富&#34;&gt;
     &lt;figcaption&gt;可以自定义的选项非常丰富&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -762,7 +750,7 @@
 &lt;p&gt;整个屏幕下半部分的左右两侧都可以滑动返回，无需改变握持姿势，左右手都没问题，即使手机再大也可以单手轻松完成，用习惯后就离不开这个功能了，我现在实用iPhone还经常习惯性的从右边滑动返回。iOS似乎是从iPhone X的全面屏开始取消了左侧的侧边返回，现在必须“跋山涉水”移动手指到屏幕的左上顶部才能按到返回按钮，整个过程要改变握持姿势，大屏幕上还容易误触或者摔手机。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154039.jpg&#34; alt=&#34;侧边返回还能兼容安卓App的抽屉功能，大大的赞&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-28_12-40-46.8ojir0x0rn.webp&#34; alt=&#34;侧边返回还能兼容安卓App的抽屉功能，大大的赞&#34;&gt;
     &lt;figcaption&gt;侧边返回还能兼容安卓App的抽屉功能，大大的赞&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -771,7 +759,7 @@
 &lt;p&gt;字体方面自带的&lt;strong&gt;小米兰亭Pro&lt;/strong&gt;是一个非常优秀的字体，看惯了苹果的苹方真的让人眼前一亮，还可以调整字重。个人很喜欢&lt;strong&gt;仓耳今楷&lt;/strong&gt;和&lt;strong&gt;仓耳云黑&lt;/strong&gt;这两款，字库很全显示效果也很棒。很多时候换一个字体真的能缓解视觉疲劳，iOS13发布时号称支持自定义字体，到了iOS14也没见什么应用效果，苹果是不是忘了？&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154157.jpg&#34; alt=&#34;自用的几款主题和字体，日常换一换整台手机都让人耳目一新&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-29_00-02-55.2h84qv19nw.webp&#34; alt=&#34;自用的几款主题和字体，日常换一换整台手机都让人耳目一新&#34;&gt;
     &lt;figcaption&gt;自用的几款主题和字体，日常换一换整台手机都让人耳目一新&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -779,7 +767,7 @@
 &lt;p&gt;MIUI的计算器是我用过所有手机上最好的计算器没有之一。触摸震动反馈、计算历史查询、点按复制、大写数字转换、退位删除、各种换算、甚至还有个税和房贷计算，你能想到的它几乎都有。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154148.jpg&#34; alt=&#34;亲戚计算简单有趣又实用&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-28_22-33-10.2doit586y2.webp&#34; alt=&#34;亲戚计算简单有趣又实用&#34;&gt;
     &lt;figcaption&gt;亲戚计算简单有趣又实用&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -787,7 +775,7 @@
 &lt;p&gt;MIUI12仿照iOS将控制中心和通知中心分开，控制中心可以显示更多的信息，这一点被很多老用户骂，我倒非常喜欢这个改动。新的控制中心可以一目了然自己的流量剩余和话费剩余，还能自动更新和运营商保持一致，非常省心和方便（虽然对我这种话费报销人群意义并没有那么大），其他的3个大模块可以快速切换蓝牙设备、切换wifi和切换双卡，也都是用户的痛点。MIUI模仿了iOS，iOS反过来学习却没有学全。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154158.jpg&#34; alt=&#34;个人非常喜欢新的控制中心，几个快速切换做的很棒&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-28_22-52-12.2krqokucdn.webp&#34; alt=&#34;个人非常喜欢新的控制中心，几个快速切换做的很棒&#34;&gt;
     &lt;figcaption&gt;个人非常喜欢新的控制中心，几个快速切换做的很棒&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -795,7 +783,7 @@
 &lt;p&gt;应用双开可以一台手机登录多个微信和QQ，不影响通知接收和发送；闹钟可以自动跳过法定节假日；相册图库可以分相册管理，屏蔽杂乱的截图或者垃圾图片；文件管理可以快速定位文件，这些都是安卓系统国产化的功能，几乎所有的安卓机都标配，iOS不知道何年何月才会有。让我印象深刻的是MIUI系统自带的&lt;strong&gt;文档查看器&lt;/strong&gt;，pdf、word、excel，ppt都无需安装app直接查看和浏览，没有广告、界面清爽、启动快速，特别是&lt;strong&gt;小米表格查看器&lt;/strong&gt;真的非常好用。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154013.jpg&#34; alt=&#34;小米表格查看器可以快速筛选和排序&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-27_23-36-05.1sev6udqn6.webp&#34; alt=&#34;小米表格查看器可以快速筛选和排序&#34;&gt;
     &lt;figcaption&gt;小米表格查看器可以快速筛选和排序&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -811,7 +799,7 @@
 &lt;p&gt;iOS上的密码自动填充太方便，整个系统不论是网页浏览器还是App，只要有键盘输入的地方都可以随时无缝唤起密码自动填充。为了全平台使用这个功能，我从Apple全生态支持的&lt;strong&gt;钥匙串&lt;/strong&gt;换成了&lt;strong&gt;Chrome密码管理&lt;/strong&gt;，后来有切换成&lt;strong&gt;LastPass&lt;/strong&gt;。钥匙串不支持安卓与Windows，Chrome密码管理局限于浏览器并不适用所有场景，看来看去只有LastPass支持所有平台。遗憾的是，在MIUI12也就是安卓10的系统上，LastPass几乎就是不可用的状态。我已经打开和赋予了LastPass所有的权限，100%开启所有功能，但是在网页或App的登录界面能不能唤起密码自动填充依然是一个随缘的事情，甚至同一个App或者网页的同一个位置，LastPass也是随缘唤起。有时候明明已经唤起，但是却找不到对应账户名和密码。这一点和iOS对比体验一个天一个地，目前我只能手动进入LastPass去查找并复制。据说安卓11已经改善了体验，和iOS一样利用键盘输入来操作，我只能期待K30 Pro版的MIUI12能够尽快适配完成了，即使如此多半也得输入法和LastPass更新才可以支持，似乎遥遥无期啊。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154121.jpg&#34; alt=&#34;iOS是在键盘上方唤出自动填充，搭配Face ID或者Touch ID可以非常流畅的进行密码自动填充&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-28_13-15-42.1lbnberl7q.webp&#34; alt=&#34;iOS是在键盘上方唤出自动填充，搭配Face ID或者Touch ID可以非常流畅的进行密码自动填充&#34;&gt;
     &lt;figcaption&gt;iOS是在键盘上方唤出自动填充，搭配Face ID或者Touch ID可以非常流畅的进行密码自动填充&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -821,14 +809,14 @@
 &lt;p&gt;这或许是好事，或许是坏事。但在国内明显是坏事，因为国内的各个App都并不完全适配，结果就是通知管理反而变得混乱无比，层级多、选项杂，&lt;strong&gt;重要程度&lt;/strong&gt;这个选项不知道是不是MIUI12自定义的，各种参数和选项调整放在一起，反正我是完全看不懂。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154050.jpg&#34; alt=&#34;微信的通知管理有四个层级26个选项，复杂的让人头大&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-28_12-48-40.39l08lhvdw.webp&#34; alt=&#34;微信的通知管理有四个层级26个选项，复杂的让人头大&#34;&gt;
     &lt;figcaption&gt;微信的通知管理有四个层级26个选项，复杂的让人头大&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;连&lt;strong&gt;微信&lt;/strong&gt;这么功能简陋的App通知管理都这么复杂了，那其他的App岂不是更加混乱。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154049.jpg&#34; alt=&#34;Google商店的通知有10个层级，虎扑就更乱完全看不懂&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-28_12-52-46.8dwoxvhsmd.webp&#34; alt=&#34;Google商店的通知有10个层级，虎扑就更乱完全看不懂&#34;&gt;
     &lt;figcaption&gt;Google商店的通知有10个层级，虎扑就更乱完全看不懂&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -836,7 +824,7 @@
 &lt;p&gt;苹果的系统都是自带字典翻译的，不论是iOS还是Mac都有免费的翻译功能，而且几乎可以在所有界面和App呼出，翻译质量也不错，虽然我是英语很菜但也能看出至少苹果的词典翻译文本量和例句多得多。MIUI似乎也有词组翻译功能，但很多地方长按呼出菜单里没有查询按钮，有时候呼出的查询按钮是有道词典的链接，有时候呼出翻译文本只有几个字，逻辑怪内容少感觉像是半成品。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201103154333.jpg&#34; alt=&#34;iPhone是买手机送多国词典&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-10-29_13-04-18.41xvqbyh4d.webp&#34; alt=&#34;iPhone是买手机送多国词典&#34;&gt;
     &lt;figcaption&gt;iPhone是买手机送多国词典&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -922,7 +910,7 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201022102211.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e6%9c%aa%e6%a0%87%e9%a2%98-1.2vekhq5rf5.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -932,21 +920,21 @@
 &lt;p&gt;苹果取消充电头和耳机，其实就是为了降低自己的成本！还有卖自己的配件！你看看苹果的无线耳机销量有多好，这耳机可是一个要 1000+的啊！顺便吐槽一下 airpods，这东西不是我买的是租来的，因为电池容量小损耗大，一代我用了一年续航直接尿崩现在都懒得用了。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201022102213.jpg&#34; alt=&#34;我的一代AirPods现在续航只有2个小时&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/snipaste_20201022_101435-1603332930001.58h6yxjkly.webp&#34; alt=&#34;我的一代AirPods现在续航只有2个小时&#34;&gt;
     &lt;figcaption&gt;我的一代AirPods现在续航只有2个小时&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;iPhone12 内部配置了磁吸充电的磁铁，但如果你要用到这个功能还得自己买一个 329的无线充电头。所谓的环保那是附带的，只不过苹果把环保当做噱头大肆宣传了而已。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201022102210.jpg&#34; alt=&#34;这个无线充电器可不便宜&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/snipaste_20201022_100618.5mnmpsrvgz.webp&#34; alt=&#34;这个无线充电器可不便宜&#34;&gt;
     &lt;figcaption&gt;这个无线充电器可不便宜&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;还有一种说法是老用户家里已经有很多的充电头了，可用户家里的充电头大部分都是USBA口的啊（我家里就有7个五福一安）iPhone12直接给了一条C2L的充电线，这。。。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20201022102212.jpg&#34; alt=&#34;老用户最多的是这种A口充电头，无法使用C2L的充电线，更别说快充了&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/snipaste_20201022_101320.9kg06h2w44.webp&#34; alt=&#34;老用户最多的是这种A口充电头，无法使用C2L的充电线，更别说快充了&#34;&gt;
     &lt;figcaption&gt;老用户最多的是这种A口充电头，无法使用C2L的充电线，更别说快充了&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1007,7 +995,7 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/photo_2020-08-10_21-59-36.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/photo_2020-08-10_21-59-36.1ov993krsd.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1018,7 +1006,7 @@
 &lt;h3 id=&#34;被嫌弃的松子的一生&#34;&gt;被嫌弃的松子的一生&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/11111.jpg&#34; alt=&#34;更喜欢这张海报，黑色背景与绚丽花朵如烟花一般，更像松子的一生&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/11111.2h84qu1di7.webp&#34; alt=&#34;更喜欢这张海报，黑色背景与绚丽花朵如烟花一般，更像松子的一生&#34;&gt;
     &lt;figcaption&gt;更喜欢这张海报，黑色背景与绚丽花朵如烟花一般，更像松子的一生&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1027,14 +1015,14 @@
 &lt;p&gt;从教师开始，与作家同居，成为他人的情妇，做按摩女郎，杀人入狱，两次开理发店，做黑帮小弟的女人，宅女，最后被杀，松子的一生起起伏伏无疑是悲剧的，她经历了太多的苦难和折磨，不断被人抛弃，一直被人忽视。但松子却始终环抱着对生活的向往，不断的努力和付出，可惜的是每当她看到希望时却总被浇下来一盆凉水，从头凉到心里。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/p2549963465.jpg&#34; alt=&#34;歌舞形式，夸张的肢体，强烈的色彩对比冲击，是这部电影的特色&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2549963465.3rb1x5jcto.webp&#34; alt=&#34;歌舞形式，夸张的肢体，强烈的色彩对比冲击，是这部电影的特色&#34;&gt;
     &lt;figcaption&gt;歌舞形式，夸张的肢体，强烈的色彩对比冲击，是这部电影的特色&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;松子是乐观向上的，她和很多人一样没什么本事，但肯下死功夫能吃苦没怨言；松子是可怜的，她遇到了各式各样的人，但几乎没有几个真正的关心她；松子是可悲的，她不求回报全心全意的付出只希望获得对方的爱，却总是事与愿违；松子是无脑的，只要对方踏出一步，她就可以踏出一百步，只要对方流露出一点点接近的意愿，她就可以无条件的付出。松子是孤独的，她没有朋友害怕寂寞，所以一直想通过付出和讨好来留住遇到的每一个人。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/p474950303.jpg&#34; alt=&#34;只需要接受命令和执行，可悲的是或许只有这样的生活模式才适合松子&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p474950303.6t6xydkp0i.webp&#34; alt=&#34;只需要接受命令和执行，可悲的是或许只有这样的生活模式才适合松子&#34;&gt;
     &lt;figcaption&gt;只需要接受命令和执行，可悲的是或许只有这样的生活模式才适合松子&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1046,14 +1034,14 @@
 &lt;p&gt;作为2007年的奥斯卡最佳影片，&lt;strong&gt;老无所依&lt;/strong&gt;其实早早就放进了我的必看清单，大学那会儿舍友看了，我问他好不好看，他说完全看不懂，就是里面有一个变态杀手，不知道他想干嘛，整天拿着一个改造煤气罐到处杀人。我说他为啥杀人，他说不知道；那最后抓到人没，他说没有；我问那最后呢？他说最后没啥直接结束了。这就是我之前对这部电影所有的印象，当年的我是懵逼的，我以为舍友应该是没看懂这部电影。多年后我终于找机会看完了这部电影，我才发现舍友的描述简直无比准确，我比他更懵逼。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/22222.jpg&#34; alt=&#34;正式海报有些不明所以，背景我一度看成是一只狒狒&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/22222.4uar81f6ox.webp&#34; alt=&#34;正式海报有些不明所以，背景我一度看成是一只狒狒&#34;&gt;
     &lt;figcaption&gt;正式海报有些不明所以，背景我一度看成是一只狒狒&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;老无所依&lt;/strong&gt;的导演我并不熟悉，甚至我一度把这两兄弟导演和&lt;strong&gt;黑客帝国&lt;/strong&gt;系列的导演搞混。演员倒都是一些熟悉面孔，汤米李琼斯、伍迪哈里森不论主演和配角都是大名鼎鼎，乔什布洛林当年或许不出名，现在作为灭霸已经名震天下了。电影从杀手开始，很快就把环境和基调定了下来，美国西部蛮荒之地无法无天，冷血杀手被警察扣回警局，原因不明，杀手淡定的干掉警察抢了车子跑路，没有一句废话，仿佛自己是置身事外的看客。杀手在路上顺手逼停了一辆轿车，杀掉司机换车继续跑路，整个流程就跟喝汤一样简单随意。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/p2504742797.jpg&#34; alt=&#34;强烈的光线和阴影反差，这个笑容已经成为很多人的噩梦&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2504742797.5fkeuc9mzq.webp&#34; alt=&#34;强烈的光线和阴影反差，这个笑容已经成为很多人的噩梦&#34;&gt;
     &lt;figcaption&gt;强烈的光线和阴影反差，这个笑容已经成为很多人的噩梦&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1061,7 +1049,7 @@
 &lt;p&gt;整部电影的剧情非常的简单，但却没有主线。不同于很多类型片都有一个主题或者明确的目标，&lt;strong&gt;老无所依&lt;/strong&gt;里的人物和剧情是没有目标的，有一种拍到哪里是哪里的感觉；杀手走到哪里杀到哪里，似乎是看心情，就连接受追杀任务时也交代的不清不楚，不知道给他任务的人是哪一派，反正他拿到接收器立刻就把分任务的NPC干掉了；牛仔自从拿到了钱就开始被追杀，一边跑一边想办法藏钱一边反击，从头到尾都是一个有魄力有胆识有经验的老兵形象，最后他似乎要绝地反击剧情终于要达到冲突和高潮的时候，他直接挂了，连火拼镜头都没有交代，只有一个倒在血里的镜头，甚至他都不是被杀手干掉的；老警察一路追凶经验丰富，几次和杀手前后脚插身而过，他给牛仔的妻子承诺，多次提到自己要退休，兢兢业业的想要追捕杀手，立下了好多个flag，一度让人担心他随时挂掉，但结尾他却真的退休了，而且是碌碌无为的退休了，整部电影他几乎没有一点贡献，牛仔没救下来杀手连影子都没摸到。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/p2504742996.jpg&#34; alt=&#34;金牌赏金猎人，堪比铁血少年团陈近南式的登场&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2504742996.32hsd4vtt6.webp&#34; alt=&#34;金牌赏金猎人，堪比铁血少年团陈近南式的登场&#34;&gt;
     &lt;figcaption&gt;金牌赏金猎人，堪比铁血少年团陈近南式的登场&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1123,7 +1111,7 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135847.png&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/00.%e5%a4%b4%e5%9b%be.1757ki6ldb.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1149,7 +1137,7 @@
 &lt;h3 id=&#34;emeditor是什么&#34;&gt;EmEditor是什么&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135848.png&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/01.%e4%bb%8b%e7%bb%8d.7p3fdthkmo.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1168,7 +1156,7 @@
 &lt;p&gt;点击菜单的&lt;strong&gt;查看&lt;/strong&gt;，工具栏，勾选&lt;strong&gt;CSV/排序工具栏&lt;/strong&gt;、&lt;strong&gt;筛选工具栏&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135849.png&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/02.%e5%87%86%e5%a4%87%e5%b7%a5%e4%bd%9c.pf5vx57sh.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1178,14 +1166,14 @@
 &lt;p&gt;以下分别打开10万、100万、550万、1000万数据的文件，体验一下速度。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135850.gif&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/03.%e6%89%93%e5%bc%80%e9%80%9f%e5%ba%a6.5xagiwy7qr.gif&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;EmEditor不到1秒就可以快速浏览，状态栏和行号一眼就可以看出数据量的大小。把数据导入到Excel查看的话，需要的时间会让你崩溃。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135851.png&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/04.%e6%89%93%e5%bc%80%e6%b5%8f%e8%a7%88.58h6ywaoqc.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1194,7 +1182,7 @@
 &lt;p&gt;我们之所以要把文本类型的数据导入Excel处理，无非就是要&lt;strong&gt;按行按列&lt;/strong&gt;查看和操作编辑，记事本和UltraEdit都只能按行查看，但是通过CSV功能，EmEditor可以将有分隔符的文本数据直接按行按列处理。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135852.gif&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/05.CSV%e5%88%86%e5%88%97%e6%9f%a5%e7%9c%8b.1aoti7zo39.gif&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1205,7 +1193,7 @@
 &lt;h5 id=&#34;举例使用英文分号作为分隔符进行分列&#34;&gt;举例：使用英文分号作为分隔符进行分列&lt;/h5&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135853.gif&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/06.%e8%87%aa%e5%ae%9a%e4%b9%89%e5%88%86%e9%9a%94.41xvqals52.gif&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1215,13 +1203,13 @@
 &lt;p&gt;切换到CSV模式后，软件会自动显示列序号，在列序号上单击右键，就可以进行插入列、删除列、复制列、排序等操作了。排序功能较为简单直白，菜单里已经写的很清楚了不再赘述，需要注意的是排序会把列名称也视为数据的一部分进行排序。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135854.png&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/07.%e6%8e%92%e5%ba%8f01.3ye9skspfb.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135855.png&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/07.%e6%8e%92%e5%ba%8f02.8kzwt9r92v.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1230,7 +1218,7 @@
 &lt;p&gt;点击CSV工具栏里的这两个图标，可以快速删除重复行，几秒就可以完成百万级数据的重复删除。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135856.png&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/08.%e5%88%a0%e9%99%a4%e9%87%8d%e5%a4%8d%e8%a1%8c.231ozyg9tk.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1240,7 +1228,7 @@
 &lt;p&gt;有时候数据里可能有上百列，手动去查找和删除太慢太麻烦，那么可以使用提取列功能&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135857.png&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/09.%e6%8f%90%e5%8f%96%e5%88%97.3go83zrbuh.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1249,7 +1237,7 @@
 &lt;h5 id=&#34;举例筛选所有性别为男的订单&#34;&gt;举例：筛选所有性别为男的订单&lt;/h5&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135858.gif&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/10.%e7%ad%9b%e9%80%89.4jnxevn5q2.gif&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1259,7 +1247,7 @@
 &lt;h5 id=&#34;举例非csv模式下提取有东门这两个字符的所有行&#34;&gt;举例：非CSV模式下，提取有“东门”这两个字符的所有行&lt;/h5&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135859.gif&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/11.%e6%8c%89%e8%a1%8c%e5%86%85%e5%ae%b9%e6%8f%90%e5%8f%96%e6%95%b0%e6%8d%ae.39l08k56ez.gif&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1268,7 +1256,7 @@
 &lt;p&gt;例如150万的数据，指定分割后每个文件4万行，那么最终会得到37个4万条数据的小文件， 还有1个2万条数据的文件， 合计38个，只需1秒就可以完成分割。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135900.gif&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/12.%e5%88%86%e5%89%b2%e6%96%87%e4%bb%b6.3d4m69y94t.gif&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1276,7 +1264,7 @@
 &lt;p&gt;通过这个操作，我们可以把系统里txt、csv文件关联给EmEditor，以后遇到txt、csv文件，双击就可以直接使用EmEditor打开，再也不用使用低能的记事本和缓慢的Excel了。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135901.gif&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/13.%e5%85%b3%e8%81%94%e6%96%87%e4%bb%b6%e6%a0%bc%e5%bc%8f.9kg06fu08v.gif&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1284,13 +1272,13 @@
 &lt;p&gt;说了这么多，软件怎么下载安装呢？EmEditor是付费的商业软件，支持年订阅付费或者永久授权，年订阅283元，永久授权1274元。有条件的还是希望大家支持正版。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135902.png&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/14.%e5%b9%b4%e8%ae%a2%e9%98%85.5xagiwy7r4.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200805135903.png&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20wan/14.%e7%bb%88%e7%94%9f%e6%8e%88%e6%9d%83.1e8ffxsqtc.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1355,13 +1343,7 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;p&gt;&lt;figure&gt;
-    &lt;center&gt;
-    &lt;img src=&#34;http://img-upyun.kekeyu.top/20200804151955.png&#34; alt=&#34;&#34;&gt;
-    &lt;figcaption&gt;&lt;/figcaption&gt;
-    &lt;/center&gt;
-    &lt;/figure&gt;&lt;/p&gt;
-&lt;p&gt;算起来已经来阎良有半年多了，距离上一次的记录已经间隔了7个月，这段时间里我居然已经有了孩子，还卖掉了原有的住房，买了新家，而且调到了新的分公司。这半年来经历了疫情，卖房，买房，租房，工作调动等等多个大事件，来到了完全陌生和全新的工作环境，回头想来也挺不可思议的。&lt;/p&gt;
+                    <description>&lt;p&gt;算起来已经来阎良有半年多了，距离上一次的记录已经间隔了7个月，这段时间里我居然已经有了孩子，还卖掉了原有的住房，买了新家，而且调到了新的分公司。这半年来经历了疫情，卖房，买房，租房，工作调动等等多个大事件，来到了完全陌生和全新的工作环境，回头想来也挺不可思议的。&lt;/p&gt;
 &lt;p&gt;今天和一个代理商喝酒，一起的还有一个同事和华为的相识，闹腾到3点多才回到自己的房间。回来的路上经过阎良已经不算新的营业厅，突然发现台阶上坐着一位独立喝闷酒的哥们，那一瞬间真的想坐在他旁边要一杯酒，一起聊一聊。或者只是喝一杯而已就够了，但总觉得自己太矫情。凌晨3点坐在阎良的大街上独立喝闷酒的人，应该也有自己的心事和难处吧，我都不知道他究竟烦恼的是什么事，想来想去还是不要打扰他的好。但谁有保证他不想被人打扰呢？或许人就是这么奇怪的东西。&lt;/p&gt;
 &lt;p&gt;回到房间，我是否应该庆幸？好歹我不是那个坐着大街的台阶上独自喝闷酒的家伙，当谁有能保证明天的我不会像他一样呢？想到这里，似乎眼泪都快流下来了，但我这种人，真的还有眼泪吗？&lt;/p&gt;
 </description>
@@ -1406,14 +1388,14 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/p2542144239.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2542144239.6ik458xeh8.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;绿皮书&lt;/strong&gt;可以说是18年最火的电影，拿下了奥斯卡最佳影片和最佳男主两个重要奖项，而且19年还在大陆地区上映了，尽管场次很少。对于这部电影其实我是有偏见的，主要原因就是好莱坞近几年的政治正确玩法，刻意的选择黑人演员、搞平衡。&lt;strong&gt;爱乐之城&lt;/strong&gt;输给&lt;strong&gt;月光男孩&lt;/strong&gt;在我看来就是刻意为之的结果，黑人加同性恋的题材在这个时代去参评简直就是带了外挂。而凭借&lt;strong&gt;月光男孩&lt;/strong&gt;拿下奥斯卡最佳男配的演员马赫沙拉·阿里恰恰就是&lt;strong&gt;绿皮书&lt;/strong&gt;的主演，因为这些原因其实我的潜意识里就给这部电影已经减分了。时隔一年多后我才观看了这部电影，结论按现在流行的话来讲，就是真香。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/p2531065411.jpg-500&#34; alt=&#34;我更喜欢这种简洁明了的海报设计&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2531065411.58h6yxff60.webp&#34; alt=&#34;我更喜欢这种简洁明了的海报设计&#34;&gt;
     &lt;figcaption&gt;我更喜欢这种简洁明了的海报设计&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1424,21 +1406,21 @@
 &lt;p&gt;开局的场景和剧情很快就把司机这个角色形象建立起来，夜总会里出手赶走闹事的客人，偷偷藏起大人物的帽子再假装捡到去归还，路边停车用垃圾桶挡住消防栓，为了赚钱和人对赌吃汉堡热狗，温馨的家人，还有扔掉黑人用过杯子，这些都提现了司机的性格：混子社会人、从事职业繁多、爱占小便宜、吃货、乐观派，爱护家人，自视甚高略有种族歧视。这些特点都在整部电影里不断的体现出来，社会人什么都做他才能一路搞定各类麻烦，面对警察他察言观色贿赂，面对混混当钢琴家在对方手里时他假装掏枪威慑，面对小偷当钢琴家没有危险时他果断鸣枪；爱占小便宜所以他才会偷石头；吃货他才能在各个环境如鱼得水而且还引出了炸鸡的对手戏；爱护家人他才会在旅途中不断写信，并在最后坚持回家过圣诞；自视甚高他定位为我仅仅是一个司机，不愿意给音乐家端茶倒水鞍前马后；略有种族歧视他看不起亚裔司机，刻意让黑人管家搬运行李。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/p2544786556.jpg&#34; alt=&#34;完全认不出这是人皇阿拉贡，维果绝对值得一座奥斯卡小金人&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2544786556.7ljtg4t8cw.webp&#34; alt=&#34;完全认不出这是人皇阿拉贡，维果绝对值得一座奥斯卡小金人&#34;&gt;
     &lt;figcaption&gt;完全认不出这是人皇阿拉贡，维果绝对值得一座奥斯卡小金人&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;音乐家因为自己的才华而骄傲，但却为自己的肤色而自卑纠结，他出入各类高端场所看似风光，但并不擅长人际交往，还经常因为肤色问题而受到各种不平等待遇，除了精湛的音乐技巧还有远大的抱负，有着知识份子的顽固和坚持，也有知识份子的责任感，即使高雅艺术的代表又是黑人还有不同取向，他是个矛盾纠结体。这些也都在电影里不断的体现和深化，他住在靓丽的二楼，房间里各类装饰品无一不体现自己的身份和地位，穿着更像是国王一般，他到了每一个地方都要品红酒看似逼格满满，但却羡慕同行的其他人可以大大方方的和妹子共饮畅谈；舞台上风光无限舞台下却只能忍受简陋狭小的化妆间，连就餐都要低人一等；他渴望交流以至于把自己暴露在酒吧受人欺凌；知识分子的他看不惯司机蹲在地下和人赌博，看不惯他不求上进，在写信方面忍不住要出手帮他；同样也是知识分子的他即使能够改变自己，但还是不能容忍司机把破坏环境的塑料制品扔出车外；有着远大抱负的他想通过全国巡演来对抗社会歧视，事事时时优雅待人也是想改变外界看法，他认识权贵却不以此沾沾自喜，无奈请求总统协助后，他说的是总统有着更远大的理想和努力，自己的事情不值一提不该打扰他们。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/p2542144419.jpg&#34; alt=&#34;善解人意的妻子，演员漂亮还特别性感（脸红）&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2542144419.8dwoxv9u32.webp&#34; alt=&#34;善解人意的妻子，演员漂亮还特别性感（脸红）&#34;&gt;
     &lt;figcaption&gt;善解人意的妻子，演员漂亮还特别性感（脸红）&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;和常见的电影套路一样，两个人在旅行中也都在改变自己，但本片并不刻意的去体现这种转变。很多电影会刻意的安排这种转变时刻和戏份，两个人经常在矛盾爆发之后大吵一架然后互相回忆其对方的种种。本片里的转变都是在细节中慢慢强化的。司机开始更喜欢去和“泥腿子”赌博，但是看过几次音乐家的演奏之后，他慢慢的开始注意自己的举止形象以及行为，但当音乐家在餐厅里被拒绝就餐后，他还是会动用自己擅长的武力来解决问题；音乐家接受鸡腿的邀请后，也接受了把骨头惬意的扔出车外，但当司机把可乐杯也扔出去后，他还是会义正言辞的要求他倒车再捡回来；音乐家即使主动要求去外面野酒吧吃饭，但在演奏的时候，开场还是不忘拿走钢琴上的那杯酒，并炫技一样演奏了并不合适这个场合的曲子。当其他人上台合奏，明显看的出他是感觉拘束和不情愿的，只有当他真正投入这个氛围结束走出酒吧的时候才露出了由衷的笑容。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/p2542144226.jpg&#34; alt=&#34;愤慨-犹豫-骄傲-不情愿-放松-投入-开怀，情绪递进非常到位，阿里的表演配得上这座小金人&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2542144226.2vekhq1lzf.webp&#34; alt=&#34;愤慨-犹豫-骄傲-不情愿-放松-投入-开怀，情绪递进非常到位，阿里的表演配得上这座小金人&#34;&gt;
     &lt;figcaption&gt;愤慨-犹豫-骄傲-不情愿-放松-投入-开怀，情绪递进非常到位，阿里的表演配得上这座小金人&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1523,7 +1505,7 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200104221655.jpg&#34; alt=&#34;看似原本人马，实际和上一部毫无关系&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2563751491.1sev6th3kz.webp&#34; alt=&#34;看似原本人马，实际和上一部毫无关系&#34;&gt;
     &lt;figcaption&gt;看似原本人马，实际和上一部毫无关系&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1532,7 +1514,7 @@
 &lt;p&gt;&lt;strong&gt;以下剧透警告&lt;/strong&gt;。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200104224949.jpg-500&#34; alt=&#34;吴镇宇这个角色实在有点多余&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2565311644.2yy6ff606i.webp&#34; alt=&#34;吴镇宇这个角色实在有点多余&#34;&gt;
     &lt;figcaption&gt;吴镇宇这个角色实在有点多余&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1551,7 +1533,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200104221653.jpg&#34; alt=&#34;钱家班的动作戏场面是有了，可惜和剧情略微脱节（主要是剧情太拉跨）&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2565212905.7w6n99jrzc.webp&#34; alt=&#34;钱家班的动作戏场面是有了，可惜和剧情略微脱节（主要是剧情太拉跨）&#34;&gt;
     &lt;figcaption&gt;钱家班的动作戏场面是有了，可惜和剧情略微脱节（主要是剧情太拉跨）&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1560,7 +1542,7 @@
 &lt;/ul&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200104221654.jpg&#34; alt=&#34;这个秘密基地实在太雷了&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2564995282.231ozywbqe.webp&#34; alt=&#34;这个秘密基地实在太雷了&#34;&gt;
     &lt;figcaption&gt;这个秘密基地实在太雷了&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1641,7 +1623,7 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200104230110.jpg&#34; alt=&#34;真实场景里的中国机长不知道有没有这个时刻&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2567515482.86th2efjyv.webp&#34; alt=&#34;真实场景里的中国机长不知道有没有这个时刻&#34;&gt;
     &lt;figcaption&gt;真实场景里的中国机长不知道有没有这个时刻&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1650,7 +1632,7 @@
  &lt;!-- more --&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200104230108.jpg-500&#34; alt=&#34;这个“奇迹”在电影里表现的有点“平平无奇”&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2568258113.5c0swm0d7d.webp&#34; alt=&#34;这个“奇迹”在电影里表现的有点“平平无奇”&#34;&gt;
     &lt;figcaption&gt;这个“奇迹”在电影里表现的有点“平平无奇”&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1658,7 +1640,7 @@
 &lt;p&gt;似乎香港导演都拍不好这种略带献礼意味的题材，国庆档加上官方认可和宣传的英雄，这几个要素放在香港导演的手里不是重拳出击反而是掣肘。这一点反应在电影里，主要就是编剧的问题。因为以上的种种原因&lt;strong&gt;中国机长&lt;/strong&gt;似乎拿不准观众的高潮点，整片下来有点隔靴挠痒的感觉。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200104230111.jpg&#34; alt=&#34;电影里的人物颜值都很能打&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2569117466.pf5vx1tk0.webp&#34; alt=&#34;电影里的人物颜值都很能打&#34;&gt;
     &lt;figcaption&gt;电影里的人物颜值都很能打&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1666,7 +1648,7 @@
 &lt;p&gt;从普通观众的角度看，机组人员遇到的问题似乎也不是特别麻烦，机长从头到尾都是在执行标准化操作和应对，没有什么艰难决策（其实是有的，但是电影没有突出表现），甚至平安降落以后身上连汗都没出；副机长就艰难从机舱返回驾驶舱后，就给机长揉了揉胳膊；副驾驶比较惨，脸上和手臂都挂了彩差点被甩出飞机，他返回驾驶舱后按了几个按钮就没什么表现了，中间似乎在昏迷；乘务长和几个空姐同样是执行标准化流程和应对，也就两个乘客闹事，被乘务长两句话就安排坐下了。至于另一条非常重要的地面叙事线，几个机场的塔台等等，除了呼叫和清场外，没有任何作用和价值，地面和空中甚至全程都没有几次有效的交流。全片看完我有点意犹未尽的遗憾。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200104230109.jpg&#34; alt=&#34;受伤最重的副驾驶最后没人管，也没有接收欢呼，惨上加惨&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/p2571287151.5mnmprflcx.webp&#34; alt=&#34;受伤最重的副驾驶最后没人管，也没有接收欢呼，惨上加惨&#34;&gt;
     &lt;figcaption&gt;受伤最重的副驾驶最后没人管，也没有接收欢呼，惨上加惨&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1735,7 +1717,7 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200104231224.jpg&#34; alt=&#34;半个喜剧只是半部电影&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e5%8d%8a%e4%b8%aa%e5%96%9c%e5%89%a7%e5%8f%aa%e6%98%af%e5%8d%8a%e9%83%a8%e7%94%b5%e5%bd%b1.7p47bwdpu.webp&#34; alt=&#34;半个喜剧只是半部电影&#34;&gt;
     &lt;figcaption&gt;半个喜剧只是半部电影&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1745,7 +1727,7 @@
 &lt;p&gt;这是典型的开心麻花电影。其实我对开心麻花这个团队一点也不了解，只看过他们的电影。似乎他们原本是演话剧或者演小品的，前几年中国票房崛起他们赶上了好时候，推出了几个口碑爆炸的片子，像&lt;strong&gt;夏洛特烦恼&lt;/strong&gt;和&lt;strong&gt;西红市首富&lt;/strong&gt;都是其中的佼佼者。个人对这类小品类的电影其实不太感冒，因为剧情走向很容易猜到，喜剧方面笑料要么是抖包袱，要么是无厘头，还经常玩小品最喜欢玩的烂梗：&lt;strong&gt;谐音&lt;/strong&gt;、&lt;strong&gt;误会&lt;/strong&gt;、&lt;strong&gt;转折&lt;/strong&gt;。这些都是周星驰早期电影里玩烂的东西，开心麻花感觉更像是模仿加改造。在表演方面自然和周星驰差了大一截，周星驰电影很多笑料依靠的是他传神的肢体语言加丰富的表情，开心麻花的演员可能有一些小品表演的习惯，这种习惯在电影的大荧幕上就被放大了（他们的电影特写镜头很少），比如太多的东北口音，比如他们抖包袱时喜欢歪头皱眉加停顿（等观众笑）。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200104231226.jpg&#34; alt=&#34;半个喜剧-海报&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e5%8d%8a%e4%b8%aa%e5%96%9c%e5%89%a7-%e6%b5%b7%e6%8a%a5.7ljtg3h1f4.webp&#34; alt=&#34;半个喜剧-海报&#34;&gt;
     &lt;figcaption&gt;半个喜剧-海报&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1754,7 +1736,7 @@
 &lt;p&gt;这样的问题在后面的剧情里也有，问题最大的当属男主突然跑到了女主家里，看到这里的时候我懵逼了。男主这样一个怂包没有铺垫和线索的情况下，居然跑到了女主家里，女主母亲居然放他进来两人还聊起来了。然后男主突然表白，女主就答应了，两个人就这么在一起了。这个处理实在太过生硬，完完全全的剧情要求。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200104231225.jpg&#34; alt=&#34;全片最意思的片段，超越了“小品”的“错位”&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e5%85%a8%e7%89%87%e6%9c%80%e6%84%8f%e6%80%9d%e7%9a%84%e7%89%87%e6%ae%b5%ef%bc%8c%e8%b6%85%e8%b6%8a%e4%ba%86%e2%80%9c%e5%b0%8f%e5%93%81%e2%80%9d%e7%9a%84%e2%80%9c%e9%94%99%e4%bd%8d%e2%80%9d.41xvqaebn7.webp&#34; alt=&#34;全片最意思的片段，超越了“小品”的“错位”&#34;&gt;
     &lt;figcaption&gt;全片最意思的片段，超越了“小品”的“错位”&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1837,7 +1819,7 @@
 &lt;h3 id=&#34;婚姻故事&#34;&gt;婚姻故事&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://i.loli.net/2019/12/23/6ScAugbPY7ZnK8I.jpg&#34; alt=&#34;婚姻故事海报&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/Image00003.231ozze7j7.webp&#34; alt=&#34;婚姻故事海报&#34;&gt;
     &lt;figcaption&gt;婚姻故事海报&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1845,7 +1827,7 @@
 &lt;p&gt;观影之前，其实在微博上看到不少关于这部电影的话题，那段上帝和母亲的言论被很多女权引用和讨论，影片也拿到了威尼斯电影节金狮奖的提名，只不过输给了&lt;strong&gt;小丑&lt;/strong&gt;（一点也不意外）。看完之后还是觉得有很多的惊喜，观影体验非常好，一点也不沉闷，当然这是对已婚人士而言，没有结婚的恐怕不能有如此的体会。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/12/21/QvXcEd.jpg&#34; alt=&#34;斯嘉丽约翰逊贡献了从影以来最佳演出&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/qbyDrLj1coJwk6Y.839v4pnt7p.webp&#34; alt=&#34;斯嘉丽约翰逊贡献了从影以来最佳演出&#34;&gt;
     &lt;figcaption&gt;斯嘉丽约翰逊贡献了从影以来最佳演出&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1854,7 +1836,7 @@
 &lt;p&gt;满分送给两位主演，真的太棒了~！影片有大量的台词和对手戏，有着非常多的人物特写镜头，而场景都是生活化的房间，这对演员的表演要求很高，表情、肢体、神态、台词，男主和女主都非常好的完成了表演，很多场对手戏两人情绪递进和台词浑然一体，让人感同身受。相信男主和女主都可以拿到奥斯卡影帝影后提名。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/12/20/QXPolt.jpg&#34; alt=&#34;这场撕逼戏两位表演简直完美&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/QXPolt.2a4wvf0cyz.webp&#34; alt=&#34;这场撕逼戏两位表演简直完美&#34;&gt;
     &lt;figcaption&gt;这场撕逼戏两位表演简直完美&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1865,7 +1847,7 @@
 &lt;h3 id=&#34;误杀&#34;&gt;误杀&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://i.loli.net/2019/12/23/FrOLaWx6CZRbHld.jpg&#34; alt=&#34;国内的电影海报设计真的一言难尽&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/Image00002.1aoti8xlsy.webp&#34; alt=&#34;国内的电影海报设计真的一言难尽&#34;&gt;
     &lt;figcaption&gt;国内的电影海报设计真的一言难尽&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1873,14 +1855,14 @@
 &lt;p&gt;这是一个明显打着陈思诚烙印的电影，侦探犯罪悬疑，陈思诚作为监制其实已经决定很多东西，风格、题材、甚至演员。陈思诚虽然人品不好，但确实有导演和运营的天赋。自从&lt;strong&gt;唐人街探案&lt;/strong&gt;开始他就敏锐的察觉到侦探悬疑这种类型在国内很有市场，而且尚未充分开发。把这种元素和喜剧结合放在贺岁档，立刻产生了化学反应。唐探 2020 年春节就要上映第三部了，衍生网剧也会在 2020 年播出，我特意查了一下，网剧的导演柯汶利就是这部&lt;strong&gt;误杀&lt;/strong&gt;的导演。陈思诚确实有眼光有天赋，不仅自己开创了一个系列，还成功的把它运营成 IP，甚至自己退居幕后，学起了徐克、陈可辛自己当监制把控方向和运作，脏活累活都让给导演去干。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/12/20/QXgnuF.jpg&#34; alt=&#34;新一代的导演已经不满足只做导演&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/QXgnuF.4n7jcme65m.webp&#34; alt=&#34;新一代的导演已经不满足只做导演&#34;&gt;
     &lt;figcaption&gt;新一代的导演已经不满足只做导演&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;误杀&lt;/strong&gt;这部电影剧情也比较简单，男主一家的女儿被警察局长儿子强奸并拍摄视频，要挟的时候被男主女儿误杀，男主为了保护家人，模仿自己看过的无数电影制造了各种不在场证明误导警方查案，最后成功骗过了所有人。但为了电影能够上映，结尾一家人都去自首了。影片一开始就埋下了各种伏笔和线索，很快局长儿子 flag 拉满挂掉，男主开挂布局，局长也开挂推理，眼看局长要胜利的时候，男主剧情反杀，然后自首。除了开局的配乐和节奏明显脱节外，主配角表演到位，剪辑层层深入一直很好的引导着观众思维，剧情很有张力也很吸引人，中段的推理节奏拍的很精彩，还有爽剧般刻意让人高潮的反转，结尾拉跨那是不可避免的。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/12/20/QXgC7j.jpg&#34; alt=&#34;陈冲的造型不错，演这种角色手到擒来&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/QXgC7j.5j40s2nulk.webp&#34; alt=&#34;陈冲的造型不错，演这种角色手到擒来&#34;&gt;
     &lt;figcaption&gt;陈冲的造型不错，演这种角色手到擒来&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1892,7 +1874,7 @@
 &lt;h3 id=&#34;我和我的祖国&#34;&gt;我和我的祖国&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://i.loli.net/2019/12/23/xVZjzQeob37tPhi.jpg&#34; alt=&#34;3个五星，3个三星，1个二星&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/Image00004.54xl17fjqc.webp&#34; alt=&#34;3个五星，3个三星，1个二星&#34;&gt;
     &lt;figcaption&gt;3个五星，3个三星，1个二星&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1902,7 +1884,7 @@
 &lt;p&gt;&lt;strong&gt;北京你好&lt;/strong&gt;是全篇最佳，北京奥运期间的一个出租车司机身上，就像小学生作文一样的故事，在宁浩和葛优手里也能超神发挥，特别是葛优大爷演技真的出神入化，把一个北京大爷的形象演绎的淋漓尽致，结尾的 &lt;strong&gt;“加油～”&lt;/strong&gt; 配合弹幕 &lt;strong&gt;“奥利给”&lt;/strong&gt; 实在喜庆，北京奥运就是这样的高兴日子。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/12/20/QXWIPA.jpg&#34; alt=&#34;不得不说，佟丽娅实在太漂亮了&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/QXWIPA.9gwe8qyv8s.webp&#34; alt=&#34;不得不说，佟丽娅实在太漂亮了&#34;&gt;
     &lt;figcaption&gt;不得不说，佟丽娅实在太漂亮了&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1912,7 +1894,7 @@
 &lt;h3 id=&#34;攀登者&#34;&gt;攀登者&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://i.loli.net/2019/12/23/kGKQtmd24Pwf8Ob.jpg&#34; alt=&#34;这个海报简直就是欺诈&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/Image00001.6bgw9t4gbl.webp&#34; alt=&#34;这个海报简直就是欺诈&#34;&gt;
     &lt;figcaption&gt;这个海报简直就是欺诈&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1922,7 +1904,7 @@
 &lt;p&gt;吴京被用来当&lt;strong&gt;中国队长&lt;/strong&gt;，&lt;strong&gt;登山战狼&lt;/strong&gt;，他在电影里有无数的动作戏，飞天走地无所不能简直就是超人，感觉他一个人就可以登顶，其他队友都是杂鱼，充当背景，被救和添乱，这个团队组建的毫无意义。章子怡被拿来演感情戏，花瓶洒狗血，不是不能有感情戏，但是两个人冰天雪地公频聊天表白，实在太尴尬了，而且最后强行送人头，死的毫无意义。攀登珠穆朗玛峰变成了一个口号，国家登山队简直就是想干嘛就干嘛，毫无组织纪律和计划，莽就完事了，最后登顶也没有什么家国情怀的升华，观众差点憋出内伤，这个登顶变得也毫无意义。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/12/20/QX46vq.jpg&#34; alt=&#34;主演感情线已经是灾难了，可怕的是还有第二个感情线&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/QX46vq.7ljtg4mfmu.webp&#34; alt=&#34;主演感情线已经是灾难了，可怕的是还有第二个感情线&#34;&gt;
     &lt;figcaption&gt;主演感情线已经是灾难了，可怕的是还有第二个感情线&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -1992,7 +1974,7 @@
                 
                 <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
                 
-                    <description>&lt;img src=&#34;https://s2.ax1x.com/2019/12/19/Qq4eRx.jpg&#34; alt=&#34;&#34;  /&gt;
+                    <description>&lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/封面图.7p3fdu2kut.webp&#34; alt=&#34;&#34;  /&gt;
 &lt;p&gt;本期影评三部电影：&lt;strong&gt;爱尔兰人&lt;/strong&gt;、&lt;strong&gt;利刃出鞘&lt;/strong&gt;、&lt;strong&gt;鬼影特攻：以暴制暴&lt;/strong&gt;&lt;/p&gt;
 &lt;h3 id=&#34;罗嗦前言&#34;&gt;罗嗦前言&lt;/h3&gt;
 &lt;p&gt;最近心血来潮又重新开始写博客，顺便也学学技术，我并不是一个科班出生的程序员，最多只能算是个喜欢折腾各类工具的爱好者，相比起其他的博客作者满屏的技术性文章、代码，我的博客就相对家长里短一些。&lt;/p&gt;
@@ -2002,7 +1984,7 @@
 &lt;h3 id=&#34;爱尔兰人&#34;&gt;爱尔兰人&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://i.loli.net/2019/12/23/6W52bK1RslhFnU3.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e7%88%b1%e5%b0%94%e5%85%b0%e4%ba%ba-%e6%b5%b7%e6%8a%a5.2vekhphvrf.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2011,14 +1993,14 @@
 &lt;p&gt;等待了好久终于在一个周末上午，我带着耳机东躲西藏在手机上看完了这部巨作。好的电影看完仿佛过完了一生，这部也给了我同样的感受。开篇是老人院里的回忆，主演弗兰克开始回忆他和朋友罗素带家人去参加婚礼，他们开车一边走一边收保护费，路过公路酒店的时候，弗兰克想起多年以前他和罗素在这里的第一次相遇，他当时是一个退伍老兵做卡车司机，这次相遇改变了他的一生。罗素是黑道上赫赫有名的“教父”级人物，弗兰克成为了他忠心耿耿的打手，他杀人毫不拖泥带水心狠手辣，很快他被罗素介绍给美国政界的风云人物吉米，成为了他的贴身保镖，弗兰克同时也成为吉米和罗素的中间人，同样也是黑白两道的中间人。电影表现的就是这三人的关系和纠葛，穿插了那个年代众多美国大事件，比如古巴导弹危机、水门事件、肯尼迪被刺杀等等。电影叙事始终在老人院、公路旅行回忆、更遥远的回忆之间穿插，最后回到老人院的时间线，罗素和吉米早已死去，弗兰克也已经垂垂老矣，他只能看着那扇留着缝的们，等待自己的终局。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/12/19/QqfW90.jpg&#34; alt=&#34;两位大神的对手戏看一场少一场&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e7%88%b1%e5%b0%94%e5%85%b0%e4%ba%ba2.4913lqsxsj.webp&#34; alt=&#34;两位大神的对手戏看一场少一场&#34;&gt;
     &lt;figcaption&gt;两位大神的对手戏看一场少一场&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;整部电影看下来有些恍惚，有的时间仿佛是&lt;strong&gt;教父&lt;/strong&gt;，有的时间仿佛是&lt;strong&gt;阿甘正传&lt;/strong&gt;，有的时间仿佛是&lt;strong&gt;美国往事&lt;/strong&gt;，你能从电影里看到很多体会到很多。弗兰克，罗素和吉米的关系就如同电影海报一般，弗兰克在两人中间，罗素和吉米面朝不同的方向，弗兰克低头仿佛在和吉米耳语，但他的面朝方向和罗素一致。弗兰克使用极端的暴力保护女儿，女儿从此疏远弗兰克，她看报纸和新闻很敏锐的察觉到哪些暗杀是父亲做的，她害怕罗素，但是喜欢作为政客的吉米，结尾弗兰克想请求家人的原谅，当他说所作的一切是为了不让家人收到伤害时，女儿反问不让家人收到谁的伤害，弗兰克只能无言以对。警察来寻求案件真相告诉老年弗兰克他的律师已经死了，弗兰克下意识的问被谁干掉了。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/12/19/QqfcAs.jpg&#34; alt=&#34;脸上的减龄技术还是很明显&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e7%88%b1%e5%b0%94%e5%85%b0%e4%ba%ba1.1vyh4jf4ls.webp&#34; alt=&#34;脸上的减龄技术还是很明显&#34;&gt;
     &lt;figcaption&gt;脸上的减龄技术还是很明显&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2028,14 +2010,14 @@
 &lt;h3 id=&#34;利刃出鞘&#34;&gt;利刃出鞘&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://i.loli.net/2019/12/23/n5JW3y7Spj2aUKM.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e5%88%a9%e5%88%83%e5%87%ba%e9%9e%98-%e6%b5%b7%e6%8a%a5.7i07iegffd.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;主演 007 和美队都是我比较喜欢的演员，于是去电影院支持了一把，当天还在万达遇到了同事，我们看的居然还是同一场。这部电影早有耳闻，因为它的海报实在太吸引人目光，颜色非常丰富和鲜艳，背景也是奢华的古堡风，初次见到时我还以为不是当代的时间。作为一个悬疑侦探剧，其实电影海报第一眼就剧透了剧情，flag 满满。中间的老头子多半开局就要挂掉，而凶手就是身后的人中的一个，场景多半是一个环境封闭的偏僻所在，每个人都有不在场证明。当然真相只有一个~，完全就是&lt;strong&gt;名侦探柯南&lt;/strong&gt;和&lt;strong&gt;金田一少年事件薄&lt;/strong&gt;的展开。电影的开局也完全如观众所料，老头子很快就挂了，留下了大量遗产，侦探也来了，所有人都出场了一遍，然后就是找凶手抓凶手结束。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/12/19/QqRI2T.jpg&#34; alt=&#34;什么叫雍容华贵&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e5%88%a9%e5%88%83%e5%87%ba%e9%9e%98.45hho0zv2y.webp&#34; alt=&#34;什么叫雍容华贵&#34;&gt;
     &lt;figcaption&gt;什么叫雍容华贵&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2045,7 +2027,7 @@
 &lt;h3 id=&#34;鬼影特供以暴制暴&#34;&gt;鬼影特供：以暴制暴&lt;/h3&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://i.loli.net/2019/12/23/1eAFmZqbXOou7Rs.jpg&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e9%ac%bc%e5%bd%b1%e7%89%b9%e6%94%bb-%e6%b5%b7%e6%8a%a5.5c0swmoro7.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2054,7 +2036,7 @@
 &lt;p&gt;这部电影负责吐槽的自然是主演，他自称 0 是一个千万富翁，为什么这么有钱？不重要随便编个理由就成。他组织了一个团队搞事，有开车的，打枪的，跑酷的，医疗的等等，大家都是没身份的人，名义上已经死了，没有任何背景和弱点，队员之间都是用 1、2、3 这样的代号来称呼。这个团队有着自己的使命，可惜电影里没说明白，我开始以为他们是接任务的，可后来发现似乎任务都是 0 自己想出来的，队员们为了什么团聚在一起？似乎不是为了钱而是为了。。。正义。总之他们就聚在一起了，出生入死、吹牛打屁干干干，每个人都非常酷，基地还是一个飞机的墓地，逼格满满。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/12/19/QqfX36.jpg&#34; alt=&#34;爆炸即是艺术&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e9%ac%bc%e5%bd%b1%e7%89%b9%e6%94%bb1.1lbnbdzwgo.webp&#34; alt=&#34;爆炸即是艺术&#34;&gt;
     &lt;figcaption&gt;爆炸即是艺术&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2120,7 +2102,7 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCZZQA.png&#34; alt=&#34;everything软件主界面&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/1-snipaste_20191127_183044.4913lrtzy1.webp&#34; alt=&#34;everything软件主界面&#34;&gt;
     &lt;figcaption&gt;everything软件主界面&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2136,7 +2118,7 @@
 &lt;p&gt;&lt;strong&gt;安装&lt;/strong&gt;：绿色软件不需要安装，解压后只有两个文件，一个是主程序（2MB 大小）一个是中文语言包。推荐在官网下载便携版： &lt;a href=&#34;https://www.voidtools.com/zh-cn/downloads/&#34;&gt;https://www.voidtools.com/zh-cn/downloads/&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCFqcq.png&#34; alt=&#34;非常简洁小巧的执行文件，无需安装&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/2-snipaste_20191119_151740.1hs1dp7vwe.webp&#34; alt=&#34;非常简洁小巧的执行文件，无需安装&#34;&gt;
     &lt;figcaption&gt;非常简洁小巧的执行文件，无需安装&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2144,27 +2126,27 @@
 &lt;p&gt;windows10 系统，首次运行会有如下询问，建议选择&lt;strong&gt;以管理员身份运行&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCFH9s.png&#34; alt=&#34;建议选择”以管理员身份运行“&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/3-snipaste_20191119_153135.lvjy8y7gf.webp&#34; alt=&#34;建议选择”以管理员身份运行“&#34;&gt;
     &lt;figcaption&gt;建议选择”以管理员身份运行“&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCFLj0.png&#34; alt=&#34;直接确认即可&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/4-snipaste_20191119_153207.3k7u1r6gxs.webp&#34; alt=&#34;直接确认即可&#34;&gt;
     &lt;figcaption&gt;直接确认即可&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;界面&lt;/strong&gt;：只有一个搜索框和搜索结果显示界面。搜索框里输入一个字，结果立刻显示刷新毫无延时。结果默认是名称、路径（文件所在的位置）、文件大小、修改时间。点哪个就按哪个排序。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCFb3n.png&#34; alt=&#34;清爽的主界面&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/5-snipaste_20191119_152125-1574148463250.6pnc0p0vup.webp&#34; alt=&#34;清爽的主界面&#34;&gt;
     &lt;figcaption&gt;清爽的主界面&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;everything 搜索是不需要指定搜索范围的，因为它太快了（如果你非要指定范围也可以），12 万个文件只需要 1 秒就可以建立索引，建立索引仅需一次。我试过 6 块 3TB 的硬盘，建立索引也只花了 3 秒。搜索结果也是实时显示，指定搜索范围反而是浪费时间。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCFjBT.gif&#34; alt=&#34;动画：演示文件搜索&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/6-everything%e6%90%9c%e7%b4%a2.4913lrtzya.gif&#34; alt=&#34;动画：演示文件搜索&#34;&gt;
     &lt;figcaption&gt;动画：演示文件搜索&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2177,7 +2159,7 @@
 &lt;p&gt;搜索到结果后，双击就可以打开。如果只是想到达这个文件所在的目录，那么直接&lt;strong&gt;右键&lt;/strong&gt;-&lt;strong&gt;打开路径&lt;/strong&gt;就可以打开目录了，非常方便。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCkCC9.gif&#34; alt=&#34;动画：打开文件所在目录&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/7-%e6%89%93%e5%bc%80%e6%96%87%e4%bb%b6%e6%89%80%e5%9c%a8%e7%9b%ae%e5%bd%95.1zi32a99hf.gif&#34; alt=&#34;动画：打开文件所在目录&#34;&gt;
     &lt;figcaption&gt;动画：打开文件所在目录&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2186,14 +2168,14 @@
 &lt;p&gt;点击&lt;strong&gt;工具&lt;/strong&gt;-&lt;strong&gt;选项&lt;/strong&gt;-&lt;strong&gt;排除列表&lt;/strong&gt;（左侧倒数第三个），前两个选项建议不勾选。勾选&lt;strong&gt;启用排除列表&lt;/strong&gt;，然后点击&lt;strong&gt;添加文件夹&lt;/strong&gt;，选中你想排除的文件目录，以后每次搜索都会忽略这个目录，这个目录的文件不会出现在搜索结果里。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCFvHU.png&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/8-snipaste_20191119_160152.6pnc0p0vus.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;最下方的排除文件，输入 &lt;code&gt;*.lnk;~!*&lt;/code&gt; 就可以排除掉快捷方式文件和 office 隐藏文件，如果想排除更多文件类型，只需要在后面继续输入就可以，注意使用英文的分号隔开。比如排除 AVI 文件，就输入 &lt;code&gt;;\*.avi&lt;/code&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCFzEF.png&#34; alt=&#34;&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/9-snipaste_20191119_160427.1hs1dp7vwk.webp&#34; alt=&#34;&#34;&gt;
     &lt;figcaption&gt;&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2201,13 +2183,13 @@
 &lt;p&gt;建议开机后手动运行一次 everything 主程序，然后保持它在后台运行（出现在任务栏的右下侧，和时间、声音、微信、QQ 一样），点击&lt;strong&gt;工具&lt;/strong&gt;-&lt;strong&gt;选项&lt;/strong&gt;-&lt;strong&gt;界面&lt;/strong&gt;（左侧第二个），选中&lt;strong&gt;后台运行&lt;/strong&gt;就可以了，这样每次用完直接点击关闭，软件不会完全退出，而是停留在后台。继续&lt;strong&gt;工具&lt;/strong&gt;-&lt;strong&gt;选项&lt;/strong&gt;-&lt;strong&gt;快捷键&lt;/strong&gt;，在&lt;strong&gt;新建窗口快捷键&lt;/strong&gt;里，输入一个顺手的快捷键，按一下就可以快速呼出软件界面进行搜索，建议快捷键 &lt;code&gt;Alt+Z&lt;/code&gt; 。整个流程行云流水，软件在后台占用内存非常小可以忽略不记，完全不会拖慢电脑运行。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCkSN4.png&#34; alt=&#34;后台运行只占用极少的内存&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/10-snipaste_20191119_160810.4xud5shiyt.webp&#34; alt=&#34;后台运行只占用极少的内存&#34;&gt;
     &lt;figcaption&gt;后台运行只占用极少的内存&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCkp4J.png&#34; alt=&#34;个人建议快捷键Alt&amp;#43;Z&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/11-snipaste_20191119_160901.92pyhwep1i.webp&#34; alt=&#34;个人建议快捷键Alt&amp;#43;Z&#34;&gt;
     &lt;figcaption&gt;个人建议快捷键Alt&amp;#43;Z&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2216,7 +2198,7 @@
 &lt;p&gt;如果你只想要第一层级的文件，点击路径排序然后手动拖选或者继续在搜索框里输入就可以，注意文件夹名称一定要以 &lt;code&gt;\&lt;/code&gt; 结尾。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCkP3R.gif&#34; alt=&#34;动画：复制文件名（不复制文件）&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/12-%e5%a4%8d%e5%88%b6%e6%96%87%e4%bb%b6%e5%a4%b9%e4%b8%8b%e6%89%80%e6%9c%89%e7%9a%84%e6%96%87%e4%bb%b6%e5%90%8d.4g4bh7g5dz.gif&#34; alt=&#34;动画：复制文件名（不复制文件）&#34;&gt;
     &lt;figcaption&gt;动画：复制文件名（不复制文件）&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2227,7 +2209,7 @@
 &lt;p&gt;提示：如果传输的是一个文件夹目录，提前使用 Zip、Rar 等压缩软件压缩一下。同事下载完成后，记得取消勾选&lt;strong&gt;启动 HTTP 服务器&lt;/strong&gt; ，不然你电脑里的文件就毫无机密可言了。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://s2.ax1x.com/2019/11/27/QCkig1.gif&#34; alt=&#34;动画：启动Http服务器&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/13-%e5%b1%80%e5%9f%9f%e7%bd%91%e5%86%85%e4%b8%8b%e8%bd%bd%e6%96%87%e4%bb%b6.7eglkpoevc.gif&#34; alt=&#34;动画：启动Http服务器&#34;&gt;
     &lt;figcaption&gt;动画：启动Http服务器&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2314,14 +2296,14 @@
                 
                     <description>&lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200105002139.jpg&#34; alt=&#34;沉迷自我无法自拔&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e5%b0%81%e9%9d%a2%e5%9b%be-%e6%b5%b7%e6%8a%a5-%e6%a8%aa%e6%9d%bf.1sev6tusjl.webp&#34; alt=&#34;沉迷自我无法自拔&#34;&gt;
     &lt;figcaption&gt;沉迷自我无法自拔&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;今年八月，&lt;strong&gt;小丑&lt;/strong&gt;在威尼斯电影节横空出世，立刻成为了热门话题：国外评价口碑炸裂，漫画改编电影也能拿三大电影节，DC 被漫威吊打多年后终于成功逆袭一把，制作成本仅仅 6000 万但是票房是其 15 倍，主演演技封神提前预定奥斯卡，今年的奥斯卡最佳影片已经出炉，主演小丑致敬希斯莱杰等等等等。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200105002136.jpg&#34; alt=&#34;希斯莱杰 VS 杰昆菲尼克斯，打不完的口水战&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/%e4%b8%a4%e4%b8%aa%e5%b0%8f%e4%b8%91.9nzm46gttu.webp&#34; alt=&#34;希斯莱杰 VS 杰昆菲尼克斯，打不完的口水战&#34;&gt;
     &lt;figcaption&gt;希斯莱杰 VS 杰昆菲尼克斯，打不完的口水战&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2333,14 +2315,14 @@
  &lt;!-- more --&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200105002133.jpg&#34; alt=&#34;厕所的“打太极”&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/15nzoyAHsnsYUQpEzUF4jcroSzt.3uunuvtdkv.webp&#34; alt=&#34;厕所的“打太极”&#34;&gt;
     &lt;figcaption&gt;厕所的“打太极”&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
 &lt;p&gt;很多人都会拿&lt;strong&gt;小丑&lt;/strong&gt;和&lt;strong&gt;蝙蝠侠黑暗骑士&lt;/strong&gt;来做对比，其实这两个完全是不同类型的电影，&lt;strong&gt;黑暗骑士&lt;/strong&gt;是一部相对比较写实的超级英雄大片，里面有超级英雄、犯罪、高科技、悬疑、动作、争斗、犯罪和人性的探讨，是一部非常精彩非常成功的商业电影，小丑在其中只是一个配角，但是编剧、导演和希斯莱杰赋予了这个角色无与伦比的生命力，他狡猾、奸诈、邪恶、混乱、深谙人性、算无遗策，可以说在出场不多的戏份里抢尽了风头，蝙蝠侠几乎成为了他的配角处处落于下风，但也只有这样精彩的配角，才能更加凸显电影主角蝙蝠侠的“黑暗骑士”这个定位和称呼。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200105002134.jpg&#34; alt=&#34;黑暗骑士的小丑更加癫狂&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/2K0cjR4lGFAm0z0mmb6QS2u043F.6m3q2yfhml.webp&#34; alt=&#34;黑暗骑士的小丑更加癫狂&#34;&gt;
     &lt;figcaption&gt;黑暗骑士的小丑更加癫狂&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2348,7 +2330,7 @@
 &lt;p&gt;之前看预告片，我以为这是个奋起反击精心安排最后引发大暴乱的故事，然而电影里你看不到什么巧妙的计谋和计划，小丑没有任何超能力，他没有计划和安排，他没有同伴，没有对人性弱点的进攻和把控，也没有巧妙的犯罪手段。社会对他的呼应仅仅是他无心插柳的结果，电影最后也并没有什么高潮，你以为压抑了整部电影的负面情绪最终会在结尾全面释放，很遗憾并没有，最后的结尾一点也不过瘾，它如同一个鼓满了气的皮球，砸到地面后有了一点声响但是没有反弹的更高，慢慢的气放光了。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200105002135.jpg&#34; alt=&#34;happy的这名字是莫大讽刺&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/pLO4qJdQxhAMPaFJu7q8bgme6R3.1lbnbe8n47.webp&#34; alt=&#34;happy的这名字是莫大讽刺&#34;&gt;
     &lt;figcaption&gt;happy的这名字是莫大讽刺&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2356,7 +2338,7 @@
 &lt;p&gt;&lt;strong&gt;小丑&lt;/strong&gt;几乎是一出独角戏，电影里演员角色并不多篇幅也不多，整部电影几乎全被主演杰昆·菲尼克斯占满，除了罗伯特·德尼罗的脱口秀主持人，没有任何让人印象深刻的表演。这 118 分钟电影，全靠杰昆·菲尼克斯一个人的表演来支撑，他完美的演绎了这个人物，不论是体型、台词、肢体动作、表情，都让你相信这就是那个那个真实的人物。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200105002137.jpg&#34; alt=&#34;失控的身份更是失控的人格&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/1JlbnzFqp0KQBquCvSmoeWMe274.1lbnbe8n3v.webp&#34; alt=&#34;失控的身份更是失控的人格&#34;&gt;
     &lt;figcaption&gt;失控的身份更是失控的人格&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2364,7 +2346,7 @@
 &lt;p&gt;除了演员的表演，摄影和配乐也是全片亮点，完美的契合电影主题，尤其是三次杀人之后的舞蹈和配乐，一次在厕所的“打太极”，一次台阶之舞，一次车顶之舞，都注定成为影史经典。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200105002140.jpg&#34; alt=&#34;注定成为影视经典的台阶之舞&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/rlay2M5QYvi6igbGcFjq8jxeusY.syrtns1e1.webp&#34; alt=&#34;注定成为影视经典的台阶之舞&#34;&gt;
     &lt;figcaption&gt;注定成为影视经典的台阶之舞&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
@@ -2372,7 +2354,7 @@
 &lt;p&gt;电影的其他方面也有一些瑕疵，比如哥谭市这个背景介绍的就不够比较模糊，不知道属于哪个时代，什么社会背景，有什么类型的问题，这些细节的相对缺失不足以撑起后面的游行示威，小丑意外的枪杀三个上班族就引发了社会仇富游行略显牵强，富人阶级的介绍明显不够丰满，电影有刻意煽动利用发泄民众仇富情绪来抬高主题的嫌疑。&lt;/p&gt;
 &lt;p&gt;&lt;figure&gt;
     &lt;center&gt;
-    &lt;img src=&#34;https://img-upyun.kekeyu.top/20200105002138.jpg&#34; alt=&#34;意象化的暴乱，有些刻意了&#34;&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20240518/f5F4cRhQdUbyVbB5lTNCwUzD6BP.41xvqbfj0l.webp&#34; alt=&#34;意象化的暴乱，有些刻意了&#34;&gt;
     &lt;figcaption&gt;意象化的暴乱，有些刻意了&lt;/figcaption&gt;
     &lt;/center&gt;
     &lt;/figure&gt;&lt;/p&gt;
