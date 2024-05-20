@@ -10,7 +10,7 @@
         <title>术不学</title>
         <link>http://localhost:1313/blog.hugo/</link>
         <description>艺术源于练习</description>
-        <generator>Hugo 0.126.1 https://gohugo.io/</generator>
+        <generator>Hugo 0.125.6 https://gohugo.io/</generator>
         
             <language>zh-CN</language>
         
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Sat, 18 May 2024 18:25:56 &#43;0800</lastBuildDate>
+        <lastBuildDate>Mon, 20 May 2024 09:23:33 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/blog.hugo/rss.xml" />
         
