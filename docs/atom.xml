@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">术不学</title>
     <subtitle type="html">艺术源于练习</subtitle>
-    <updated>2026-11-12T15:56:22&#43;08:00</updated>
+    <updated>2026-11-12T16:34:00&#43;08:00</updated>
     <id>https://xiaomao260.github.io/blog.hugo/</id>
     <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/" />
     <link rel="self" type="application/atom&#43;xml" href="https://xiaomao260.github.io/blog.hugo/atom.xml" />
@@ -16,6 +16,52 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.125.7">Hugo</generator>
+        <entry>
+            <title type="text">AI 确实在改变世界</title>
+            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/55b10867/" />
+            <id>https://xiaomao260.github.io/blog.hugo/posts/55b10867/</id>
+            <updated>2026-11-12T16:34:00&#43;08:00</updated>
+            <published>2026-11-12T16:30:00&#43;08:00</published>
+            <author>
+                    <name>术不学</name>
+                    <uri>https://xiaomao260.github.io/blog.hugo/</uri>
+                    <email>kekeyu260@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">最近常常会想起《星际穿越》里那段话：“我小的时候，感觉他们每天都能造出新东西——某个小玩意儿，或者某个点子。就像每天都过圣诞节。可那是六十亿人啊……你想象一下，每一个人都想把一切都拥有。” 小红书上常有人说，大家怀念的其实是经济上行期：每个人都对未来抱有期待，而整个时代也常常能够回应这种期待。每隔一段时间都会有新鲜的科技或者产品来改变我们的生活，甚至改变整个世界。近几年，环境、经济、全球化都像在收缩</summary>
+            
+                <content type="html">&lt;p&gt;最近常常会想起《星际穿越》里那段话：“我小的时候，感觉他们每天都能造出新东西——某个小玩意儿，或者某个点子。就像每天都过圣诞节。可那是六十亿人啊……你想象一下，每一个人都想把一切都拥有。”&lt;/p&gt;
+&lt;p&gt;小红书上常有人说，大家怀念的其实是经济上行期：每个人都对未来抱有期待，而整个时代也常常能够回应这种期待。每隔一段时间都会有新鲜的科技或者产品来改变我们的生活，甚至改变整个世界。近几年，环境、经济、全球化都像在收缩，那种“每天都有新东西”的感觉淡了。&lt;/p&gt;
+&lt;p&gt;直到去年开始，特别是近几个月，AI 又让我找回一点旧日气氛。大模型、agent、AI 编程，AI 短剧创作不断冒出来，特别是 AI 编程在一些懂行的人手里发挥了效能，推陈出新的速度肉眼可见。也许其中不乏泡沫，但那种“明天可能不一样”的预期，确实被重新点亮了一点。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E6%97%A5%E8%AE%B0/" term="日记" label="日记" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">测试</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/5fb8fc2d/" />
