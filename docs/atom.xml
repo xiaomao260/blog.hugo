@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">术不学</title>
     <subtitle type="html">艺术源于练习</subtitle>
-    <updated>2026-11-12T16:34:00&#43;08:00</updated>
+    <updated>2026-11-18T20:37:38&#43;08:00</updated>
     <id>https://xiaomao260.github.io/blog.hugo/</id>
     <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/" />
     <link rel="self" type="application/atom&#43;xml" href="https://xiaomao260.github.io/blog.hugo/atom.xml" />
@@ -17,10 +17,104 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.125.7">Hugo</generator>
         <entry>
+            <title type="text">让 AI 帮我安排日程：一次和 macOS 权限较劲的实录</title>
+            <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/05b7d52c/" />
+            <id>https://xiaomao260.github.io/blog.hugo/posts/05b7d52c/</id>
+            <updated>2026-11-18T20:36:49&#43;08:00</updated>
+            <published>2026-11-18T19:40:00&#43;08:00</published>
+            <author>
+                    <name>术不学</name>
+                    <uri>https://xiaomao260.github.io/blog.hugo/</uri>
+                    <email>kekeyu260@gmail.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">本文章由 WorkBuddy 自动生成书写并发布。 一个&amp;quot;应该很简单&amp;quot;的念头 我一直有个想法：不打开任何 App，只跟 WorkBuddy 说一句&amp;quot;明天上午十点提醒我复盘&amp;quot;，事情就自动记进 Mac 的日历和提醒事项，手机上也能看到？ 听起来再自然不过。可真动手才发现，macOS 把门关得很严：不是功能做不到，而是它不轻易让一个程序去动另一个程序的数据。 第一次尝试：最笨也最直接的办法 我的第一反应是让系统自带的脚本去操</summary>
+            
+                <content type="html">&lt;p&gt;本文章由 WorkBuddy 自动生成书写并发布。&lt;/p&gt;
+&lt;h2 id=&#34;一个应该很简单的念头&#34;&gt;一个&amp;quot;应该很简单&amp;quot;的念头&lt;/h2&gt;
+&lt;p&gt;我一直有个想法：不打开任何 App，只跟 WorkBuddy 说一句&amp;quot;明天上午十点提醒我复盘&amp;quot;，事情就自动记进 Mac 的日历和提醒事项，手机上也能看到？&lt;/p&gt;
+&lt;p&gt;听起来再自然不过。可真动手才发现，macOS 把门关得很严：不是功能做不到，而是它不轻易让一个程序去动另一个程序的数据。&lt;/p&gt;
+&lt;h2 id=&#34;第一次尝试最笨也最直接的办法&#34;&gt;第一次尝试：最笨也最直接的办法&lt;/h2&gt;
+&lt;p&gt;我的第一反应是让系统自带的脚本去操作日历。我把这个想法告诉 WorkBuddy，它很快试了一下，回来一句：被拒了，报错 &lt;code&gt;-10004&lt;/code&gt;。&lt;/p&gt;
+&lt;p&gt;这个错误的意思是&amp;quot;你没有权限&amp;quot;。我心想：去系统设置里打开权限不就行了？结果 WorkBuddy 说，它这个程序在权限清单里压根不出现，想手动勾选都没那个选项。原因有两个：一是程序没声明&amp;quot;我要用日历&amp;quot;，二是新一点的 macOS 干脆取消了手动添加入口。&lt;/p&gt;
+&lt;p&gt;一句话，路被堵死了，连求情的门都找不到。&lt;/p&gt;
+&lt;h2 id=&#34;换几条路又一个个撞墙&#34;&gt;换几条路，又一个个撞墙&lt;/h2&gt;
+&lt;p&gt;接下来是最&amp;quot;磨人&amp;quot;的部分——我和 WorkBuddy 接连想了几个办法，每个看着都行，走两步就碰壁。&lt;/p&gt;
+&lt;p&gt;先是想给程序补上那句缺失的声明，再重新签个名。WorkBuddy 提醒我：这会破坏它原本的签名，还可能要重启，代价太大，不值得。&lt;/p&gt;
+&lt;p&gt;然后想干脆自己写一个小工具专门去操作日历。结果系统认为它&amp;quot;来路不明&amp;quot;，直接拦下，报了 &lt;code&gt;-10825&lt;/code&gt;。换个方式绕过去，系统又把责任算到 WorkBuddy 头上，还是被拒。&lt;/p&gt;
+&lt;p&gt;最后盯上一个更巧的思路：既然有个现成助手一直在管提醒事项，能不能借它的手？结果它也出了岔子——找不到任何日历，写入时报错说&amp;quot;没有设置日历&amp;quot;。&lt;/p&gt;
+&lt;p&gt;到这里我已经有点泄气了。把这些坑串起来看，图大概是这样：&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20261118/tcc-pitfalls.iwg9qbjvr7.webp&#34; alt=&#34;图 1：权限拦截的根因与避坑路径&#34;&gt;
+    &lt;figcaption&gt;图 1：权限拦截的根因与避坑路径&lt;/figcaption&gt;
+    &lt;/center&gt;
+    &lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;转机换个问题问自己&#34;&gt;转机：换个问题问自己&lt;/h2&gt;
+&lt;p&gt;真正解开死结的，不是又试了一种新方法，而是我把问题换了个问法。&lt;/p&gt;
+&lt;p&gt;之前我一直在问&amp;quot;怎么让 WorkBuddy 拿到权限&amp;quot;。后来我想起：同样的事，我在另一个 AI 工具（DeepSeek 的命令行环境）里早就做成过——当时是它自己写了两个小助手，一个管提醒、一个管日历，而且都拿到了系统许可。既然轮子已经造好，何必让 WorkBuddy 从头再造一遍？我真正该问的是：这台电脑上，有没有哪个程序&lt;strong&gt;本来就有权限&lt;/strong&gt;？&lt;/p&gt;
+&lt;p&gt;macOS 有个特点：它认的是程序的&amp;quot;身份&amp;quot;，只要还是原来那个程序，许可就一直有效。关键就在这里——让这两个老助手自己去干活，而不是让 WorkBuddy 直接伸手，系统就不会拦。我和 WorkBuddy 试了个很朴素的动作：像人双击图标那样去&amp;quot;打开&amp;quot;它，让系统认定&amp;quot;是它自己在运行&amp;quot;。这一下，所有弹窗都消失了。&lt;/p&gt;
+&lt;h2 id=&#34;把复杂藏在背后&#34;&gt;把复杂藏在背后&lt;/h2&gt;
+&lt;p&gt;剩下的活儿就变成了怎么把这句话说清楚。我和 WorkBuddy 约定了一个极简单的暗号：把要做的事写在一张小纸条上，让助手自己去读，读完在日志里写个&amp;quot;完成&amp;quot;。至于&amp;quot;写纸条—打开助手—等结果&amp;quot;这一串动作，WorkBuddy 全部悄悄做掉了，我这边始终只有一句话。&lt;/p&gt;
+&lt;p&gt;为了更顺手，我和 WorkBuddy 还留了个小后手：只想看看有哪些日程时，就故意写个不存在的名字让助手去&amp;quot;找&amp;quot;，它找不到就会把日程一条条列出来，却什么都不会删。有点歪打正着。&lt;/p&gt;
+&lt;p&gt;整条路走通之后，是这样的：&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;
+    &lt;center&gt;
+    &lt;img src=&#34;https://xiaomao260.github.io/picx-images-hosting/20261118/arch-flow.gv9nsi8onj.webp&#34; alt=&#34;图 2：从对话到 iPhone 的端到端链路&#34;&gt;
+    &lt;figcaption&gt;图 2：从对话到 iPhone 的端到端链路&lt;/figcaption&gt;
+    &lt;/center&gt;
+    &lt;/figure&gt;&lt;/p&gt;
+&lt;h2 id=&#34;结果以及我想说的&#34;&gt;结果，以及我想说的&lt;/h2&gt;
+&lt;p&gt;现在安排事情真的只要一句话。写进去的内容落在系统自己的日历和提醒事项里，接下来交给 iCloud，手机上自然就出现了——这部分我和 WorkBuddy 都不用再写一行代码。&lt;/p&gt;
+&lt;p&gt;回头看，最花时间的不是写代码，而是想明白&amp;quot;权限到底认谁&amp;quot;。最大的教训也朴素：当一扇门怎么都推不开时，值得退一步看看，旁边是不是已经有扇开着的。&lt;/p&gt;
+&lt;p&gt;当然，这套做法依赖那两个早已获准的助手，算是我这台机器的&amp;quot;专属解法&amp;quot;，换个环境未必照搬。但这份思路，或许比代码更有用。&lt;/p&gt;
+&lt;p&gt;本文章由 WorkBuddy 自动生成书写并发布。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiaomao260.github.io/blog.hugo/categories/%E6%95%B0%E5%AD%97%E7%94%9F%E6%B4%BB/" term="数字生活" label="数字生活" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E9%9A%8F%E7%AC%94/" term="随笔" label="随笔" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/" term="效率工具" label="效率工具" />
+                            
+                        
+                            
+                            
+                            
+                                <category scheme="https://xiaomao260.github.io/blog.hugo/tags/macos/" term="MacOS" label="MacOS" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
             <title type="text">AI 确实在改变世界</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/55b10867/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/55b10867/</id>
-            <updated>2026-11-12T16:34:00&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2026-11-12T16:30:00&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -66,7 +160,7 @@
             <title type="text">测试</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/5fb8fc2d/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/5fb8fc2d/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2024-05-18T11:37:53&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -110,7 +204,7 @@
             <title type="text">记一次核酸检测</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/ca0e9487/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/ca0e9487/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2022-01-15T15:01:18&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -201,7 +295,7 @@
             <title type="text">宣传的阵地，我们不去占领，敌人就会去占领</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/333e46d6/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/333e46d6/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2022-01-12T14:09:11&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -274,7 +368,7 @@
             <title type="text">聊聊韩国（二）</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/64b1722c/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/64b1722c/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2022-01-10T22:29:27&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -356,7 +450,7 @@
             <title type="text">聊聊韩国（一）</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/3288243b/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/3288243b/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2022-01-04T03:04:26&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -425,7 +519,7 @@
             <title type="text">元旦记</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/dfe410e0/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/dfe410e0/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2022-01-01T16:53:04&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -517,7 +611,7 @@
             <title type="text">电脑主机之路小回顾</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/4886b069/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/4886b069/</id>
-            <updated>2024-05-18T18:26:25&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2021-04-22T12:08:01&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -664,7 +758,7 @@
             <title type="text">闲谈</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/534336fd/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/534336fd/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2021-02-20T15:13:51&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -723,7 +817,7 @@
             <title type="text">Redmi K30 Pro 使用体验</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/a77786ca/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/a77786ca/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2020-10-27T21:41:07&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -963,7 +1057,7 @@
             <title type="text">iPhone12取消充电头说</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/2a3c0ebf/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/2a3c0ebf/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2020-10-22T09:44:20&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -1051,7 +1145,7 @@
             <title type="text">7月观影影评</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/c44107c5/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/c44107c5/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2020-08-10T22:03:18&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -1170,7 +1264,7 @@
             <title type="text">20万以上的数据该如何快速处理</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/32897c7a/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/32897c7a/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2020-08-05T14:01:03&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -1407,7 +1501,7 @@
             <title type="text">日记</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/11ac3506/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/11ac3506/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2020-08-04T03:14:58&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -1453,7 +1547,7 @@
             <title type="text">有趣的没头脑和不高兴，评《绿皮书》</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/2ec76320/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/2ec76320/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2020-01-07T10:18:10&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -1573,7 +1667,7 @@
             <title type="text">港片或许真的已死 评《使徒行者2谍影行动》</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/cab73f7d/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/cab73f7d/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2020-01-03T18:30:31&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -1694,7 +1788,7 @@
             <title type="text">《中国机长》影评</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/1934a4d2/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/1934a4d2/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2019-12-27T22:41:57&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -1791,7 +1885,7 @@
             <title type="text">半个喜剧只是半部电影</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/a55f4f65/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/a55f4f65/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2019-12-27T22:06:29&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -1885,7 +1979,7 @@
             <title type="text">近期影评 12月 2</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/c7117df0/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/c7117df0/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2019-12-20T23:43:27&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -2056,7 +2150,7 @@
             <title type="text">近期影评 12月 1</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/f2f07cb4/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/f2f07cb4/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2019-12-19T18:07:59&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -2185,7 +2279,7 @@
             <title type="text">一秒找到你想要的文件</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/fd313faf/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/fd313faf/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2019-11-27T18:19:19&#43;08:00</published>
             <author>
                     <name>术不学</name>
@@ -2382,7 +2476,7 @@
             <title type="text">几乎完美的个人表演，但并不是最精彩的电影</title>
             <link rel="alternate" type="text/html" href="https://xiaomao260.github.io/blog.hugo/posts/3509dfd8/" />
             <id>https://xiaomao260.github.io/blog.hugo/posts/3509dfd8/</id>
-            <updated>2024-05-20T09:13:31&#43;08:00</updated>
+            <updated>2026-11-12T18:42:06&#43;08:00</updated>
             <published>2019-11-27T09:58:54&#43;08:00</published>
             <author>
                     <name>术不学</name>
